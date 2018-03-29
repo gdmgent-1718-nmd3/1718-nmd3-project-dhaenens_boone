@@ -13,9 +13,7 @@ Gekozen
 Alternatief 1
 -------------
 
-<iframe src="https://www.w3schools.com">
-  <p>Your browser does not support iframes.</p>
-</iframe>
+<img src='/Users/steffiboone/Documents/School/2017-2018/S2/NMD3/Opdracht.1- Museum/StyleTiles/StyleTile1.ai'>
 
 
 Alternatief 2
