@@ -15,6 +15,7 @@ Alternatief 1
 
 <img src='/Users/steffiboone/Documents/School/2017-2018/S2/NMD3/Opdracht.1- Museum/StyleTiles/StyleTile2.png'>
 
+![Loremflicker][/Users/steffiboone/Documents/School/2017-2018/S2/NMD3/Opdracht.1- Museum/StyleTiles/StyleTile2.png]
 
 Alternatief 2
 -------------
