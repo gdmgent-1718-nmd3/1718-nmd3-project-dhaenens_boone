@@ -13,8 +13,8 @@ Opdracht
 Teamleden
 ---------
 
- - «Steffi» «Boone»
- - «Thibaut» «Dhaenens»
+ - Steffi Boone
+ - Thibaut Dhaenens
 
 Tags Museum Antwerpen
 --------------
