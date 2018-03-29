@@ -13,8 +13,8 @@ Opdracht
 Teamleden
 ---------
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - «Steffi» «Boone»
+ - «Thibaut» «Dhaenens»
 
-Gekozen Museum
+Tags Museum Antwerpen
 --------------
