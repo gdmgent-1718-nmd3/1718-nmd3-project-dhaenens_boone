@@ -9,6 +9,8 @@ title: Journey Maps
 
 1. Journey Map 1
 
+------------ | -------------
+
 Karel is barman van beroep. Hij is getrouwd en heeft vorig jaar zijn 1ste kindje gekregen.
 
 Karel is een levensgenieter. Naast barman is Karel ook bezig met het brouwen van zijn eigen bier. Hij heeft een amateurstel aangekocht via 2dehands.be en is zo gestart met zijn hobby. Karel is niet uit op rijkdom. Hij wil de wereld, zichzelf, zijn talenten & interesses verkennen.
@@ -19,7 +21,7 @@ Karel kwam via een vriend te weten over de Tags app. Deze heeft hij geïnstallee
 
 Karel betaald de Tickets & Treinticket via deze app. Karel vertrekt vanuit Gent & al meteen ondervind hij hinder met de bus & mist hij de trein die hij wou nemen. Gelukkig is hij in het bezit van een dagticket & verloopt zijn vervoerbewijs niet.
 
-Na een reis van 1u10 minuten komt Karel toe in Antwerpen Centraal. Hij opent Google maps & wandelt tot aan de locatie, dit is een 25 min lange wandeling waar hij door het Antwerpse landschap loopt, dit vind hij leuk aangezien dat het alweer enkele maanden geleden was dat hij daar geweest was.
+Na een reis van 1u10 minuten komt Karel toe in Antwerpen Centraal. Hij opent Google maps & wandelt tot aan de locatie, dit is een 25 min lange wandeling waar hij door het Antwerpse landschap loopt, dit vind hij leuk aangezien dat het alweer enkele maanden geleden was dat hij daar geweest was.|
 
 Onder de baan ontdekt hij een nieuw parkje waarbij hij denkt:”Deze plek ga ik onthouden voor een volgende keer.” Eenmaal aangekomen aan het museum is hij verbaasd door hoe groot het gebouw is. Hij stapt binnen en wordt overweldigd door de industriele uitstraling van het gebouw. Op de vloer zijn lijnen getrokken waardoor je een traject hebt om te volgen. 
 
