@@ -3,8 +3,8 @@ New Media Design III 2017-2018
 
 Studenten:
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - Steffi Boone
+ - Thibaut Dhaenens
 
 > Artevelde University College Ghent
 

@@ -8,7 +8,7 @@ title: Technische Analyse
 ---
 
 
-First Header | Second Header
+Beweegredenen voor een museum bezoek
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+Uit interesse, behoefte om zich verder te verdiepen in een bepaald onderwerp en/ of kunstenaar. | Content from cell 2
 Content in the first column | Content in the second column
