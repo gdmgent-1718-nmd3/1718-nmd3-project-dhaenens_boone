@@ -8,7 +8,7 @@ title: Technische Analyse
 ---
 
 
-PRO| CONTRA
+<b>PRO| CONTRA</b>
 ------------ | -------------
 Uit interesse, behoefte om zich verder te verdiepen in een bepaald onderwerp en/ of kunstenaar.	|Lange wachttijden.
 Ter inspiratie.                                                                                 |Dure inkom prijs.
