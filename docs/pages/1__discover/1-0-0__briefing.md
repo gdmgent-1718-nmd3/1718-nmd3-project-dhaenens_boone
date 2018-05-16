@@ -1,5 +1,5 @@
 ---
-layout   : index
+layout   : default
 permalink: discover/briefing/
 published: true
 # Custom Page Variables
