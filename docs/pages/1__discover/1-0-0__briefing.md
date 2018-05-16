@@ -9,6 +9,7 @@ title: Briefing
 
 Opdracht
 --------
+Een visuele ervaring creëren voor de museum bezoeker, aan de hand van een smartwatch en smartphone applicatie.
 
 Teamleden
 ---------

@@ -10,14 +10,9 @@ title: Style Tiles
 Gekozen
 -------
 
-Alternatief 1:
-![Styletile1](https://github.com/1718-nmd3-project-dhaenens_boone/docs/assets/Images/StyleTile2.png "Logo Title Text 1")
 
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-Alternatief 2
--------------
-
-
+<img
+  src="whatever-320.jpg"
+  srcset="whatever-320.jpg 320w, whatever-640.jpg 640w, whatever-1024.jpg 1024w"
+  sizes="(min-width: 960px) 960px, 100vw"
+  alt="my hero image" />
