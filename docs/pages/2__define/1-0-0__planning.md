@@ -7,5 +7,10 @@ published: true
 title: Planning
 ---
 
-Datum | 
----
+Datum        | Opdracht
+------------ | -------------
+12/02        | Briefing opdracht
+18/02        | 
+25/02
+02/03
+09/03
