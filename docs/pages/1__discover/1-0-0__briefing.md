@@ -7,7 +7,7 @@ published: true
 title: Briefing
 ---
 
-Opdracht
+<h1>Opdracht</h1>
 --------
 Een visuele ervaring creëren voor de museum bezoeker, aan de hand van een smartwatch en smartphone applicatie.
 
