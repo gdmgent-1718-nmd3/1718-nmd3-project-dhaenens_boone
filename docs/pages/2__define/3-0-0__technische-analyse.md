@@ -7,10 +7,9 @@ published: true
 title: Technische Analyse
 ---
 
-PRO          | CONTRA
+PRO| CONTRA
 ------------ | -------------
-Uit interesse, behoefte om zich verder te verdiepen in een 
-bepaald onderwerp en/ of kunstenaar.	                                                        |Lange wachttijden.
+Uit interesse, behoefte om zich verder te verdiepen in een bepaald onderwerp en/ of kunstenaar.	|Lange wachttijden.
 Ter inspiratie.                                                                                 |Dure inkom prijs.
 Ter ontspanning.                                                                                |Het museum is niet uitgebreid genoeg.
 Om nieuwe kunstenaars en/of kunststijlen te ontdekken.                                          |Het museum is moeilijk bereikbaar.
