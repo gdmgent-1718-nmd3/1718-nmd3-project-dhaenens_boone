@@ -10,5 +10,5 @@ title: Opdracht NMD-III
 Wie zijn we?
 ------------
 
- - «Steffi» «Boone», 2CMO-GD
- - «Thibaut» «Dhaenens», 2CMO-GD
+ - Steffi Boone, 2CMO-GD
+ - Thibaut Dhaenens, 2CMO-GD
