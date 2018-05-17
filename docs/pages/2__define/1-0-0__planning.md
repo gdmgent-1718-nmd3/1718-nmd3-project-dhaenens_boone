@@ -7,8 +7,10 @@ published: true
 title: Planning
 ---
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Datum         | Opdract          
+| ------------- |:-------------:
+| Week 01       | Briefing opdracht
+| Week 02       |      
+| Week 03       |  
+| Week 02       |      
+| Week 03       |            
