@@ -16,7 +16,7 @@ Uit interesse in een bepaald onderwerp en/of kunstenaar         |   Lange wachtt
 Ter inspiratie.                                                 |   Dure inkom prijs.
 Ter ontspanning.                                                |   Het museum is niet uitgebreid genoeg.
 Om nieuwe kunstenaars en/of kunststijlen te ontdekken.          |   Het museum is moeilijk bereikbaar.
-Om mensen te leren kennen met gemeenschappelijke interesses.    |   De persoon is niet mobiel.
+Mensen leren kennen met gemeenschappelijke interesses.          |   De persoon is niet mobiel.
 
 
 Smartwatch Apple Series
