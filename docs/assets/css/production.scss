@@ -4,4 +4,8 @@
 
 @import
   "app/main",
+  "app/typo",
   "production/main";
+
+  @import
+  "sass/app/typo";
