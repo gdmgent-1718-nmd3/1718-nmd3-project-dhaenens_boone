@@ -7,8 +7,8 @@ published: true
 title: Planning
 ---
 
-| Datum         | Opdract          
-| ------------- |:-------------:
+| Datum         | Opdracht          
+| :-------------|-------------:
 | Week 01       | Briefing opdracht
 | Week 02       |      
 | Week 03       |  
