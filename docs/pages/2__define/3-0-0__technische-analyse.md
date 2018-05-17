@@ -10,8 +10,8 @@ title: Technische Analyse
 Museumbezoek
 ---
 
-PRO         | CONTRA
-:---------- | ----------:
+PRO        | CONTRA
+---------- | :----------
 Uit interesse in een bepaald onderwerp en/of kunstenaar         |   Lange wachttijden.
 Ter inspiratie.                                                 |   Dure inkom prijs.
 Ter ontspanning.                                                |   Het museum is niet uitgebreid genoeg.
@@ -19,8 +19,9 @@ Om nieuwe kunstenaars en/of kunststijlen te ontdekken.          |   Het museum i
 Om mensen te leren kennen met gemeenschappelijke interesses.    |   De persoon is niet mobiel.
 
 
-Smartwatch Apple Series |
-:---------- | ----------:
+Smartwatch Apple Series
+---
+
 Waterbestendigheid tot 50m. De smartwatch is dus geschikt voor duiken in ondiep water en zwemmen.
 
 Mogelijkheid om snel berichten te lezen via een bewegingssensor. Je hoeft slechts je arm op te tillen, en het scherm zal oplichten en de berichten vertonen op de display. 
