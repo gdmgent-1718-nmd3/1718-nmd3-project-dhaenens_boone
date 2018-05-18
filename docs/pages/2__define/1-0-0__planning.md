@@ -8,7 +8,9 @@ title: Planning
 ---
 
 
-| Datum | Opdracht |         
-| ----- | -------- |
-| Week 01 | Briefing opdracht |
-| Week 02 |      
+Datum   |   Opdracht        
+-----   |   --------
+Week 01   |   Briefing opdracht
+Week 02   |   
+Week 03   |   Afwerken elevator pitch
+Week 04   |   Voorstelling elevator pitch      

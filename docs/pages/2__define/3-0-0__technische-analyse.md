@@ -10,7 +10,7 @@ title: Technische Analyse
 Museumbezoek
 ---
 
-
+---
 PRO | CONTRA
 --- | ---
 Uit **interesse** in een bepaald onderwerp en/of kunstenaar     |   Lange **wachttijden**
