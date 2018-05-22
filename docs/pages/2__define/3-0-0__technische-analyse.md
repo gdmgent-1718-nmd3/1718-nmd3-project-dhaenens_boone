@@ -18,8 +18,8 @@ Smartwatch Apple Series
 
 
 Apple Iphone X
----
-* Nabijheidsensor.
+|   ---   |   ---   |
+|   * Nabijheidsensor   | ---   |
 * Gyroscoop met 3 assen.
 * Versnellingsmeter.
 * Barometer.
