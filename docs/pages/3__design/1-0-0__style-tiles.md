@@ -9,4 +9,4 @@ title: Style Tiles
 
 Gekozen
 -------
- ![StyleTile2](/assets/images/StyleTile2.png)
+ ![StyleTile2](/assets/Images/StyleTile2.png)
