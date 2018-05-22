@@ -8,7 +8,6 @@ title: Journey Maps
 ---
 
 Journey Map 1
--------------
 ***
 
 > Karel is barman van beroep. Hij is getrouwd en heeft vorig jaar zijn 1ste kindje gekregen.
