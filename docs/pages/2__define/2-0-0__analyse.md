@@ -7,7 +7,10 @@ published: true
 title: Analyse
 ---
 
-|   PRO   |   CONTRA|
+
+##Header
+
+|   PRO   |   CONTRA   |
 |   ---   |   ---   |
 Uit **interesse** in een bepaald onderwerp en/of kunstenaar     |   Lange **wachttijden**
 Ter **inspiratie**    |    Dure inkom **prijs**

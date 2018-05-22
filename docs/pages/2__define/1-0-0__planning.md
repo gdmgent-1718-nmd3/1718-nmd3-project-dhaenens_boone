@@ -7,11 +7,12 @@ published: true
 title: Planning
 ---
 
+Titel
 
-|   Datum   |   Opdracht   |       
-|   -----   |   --------   |
+
+|Datum|Opdracht|       
+|-----|--------|
 |   Week 01   |   Briefing opdracht  |
-|---
 |   Week 02   |   
-Week 03   |   Afwerken elevator pitch
-Week 04   |   Voorstelling elevator pitch      
+|   Week 03   |   Afwerken elevator pitch
+|   Week 04   |   Voorstelling elevator pitch      
