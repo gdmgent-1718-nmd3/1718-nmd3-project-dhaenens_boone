@@ -9,10 +9,10 @@ title: Journey Maps
 
 Journey Map 1
 -------------
+***
 
-Karel is barman van beroep. Hij is getrouwd en heeft vorig jaar zijn 1ste kindje gekregen.
-
-Karel is een levensgenieter. Naast barman is Karel ook bezig met het brouwen van zijn eigen bier. Hij heeft een amateurstel aangekocht via 2dehands.be en is zo gestart met zijn hobby. Karel is niet uit op rijkdom. Hij wil de wereld, zichzelf, zijn talenten & interesses verkennen.
+> Karel is barman van beroep. Hij is getrouwd en heeft vorig jaar zijn 1ste kindje gekregen.
+> Karel is een levensgenieter. Naast barman is Karel ook bezig met het brouwen van zijn eigen bier. Hij heeft een amateurstel aangekocht via 2dehands.be en is zo gestart met zijn hobby. Karel is niet uit op rijkdom. Hij wil de wereld, zichzelf, zijn talenten & interesses verkennen.
 
 Samen met zijn vrouw woont hij in een appartement in Centrum-Gent. Karel tekent veel in zijn vrije tijd en is bezig met kunst, zelf zou hij er graag een stuk beter in worden dus experimenteert hij met tal van tools, waaronder stiften, verf, kleurpotloden, bister, & graffiti. Zelf kan Karel niet zo goed omgaan met een spuitbus. Dus oefent hij met Stencils die hij uitsnijd & vervolgens spuit op een muur.
 
