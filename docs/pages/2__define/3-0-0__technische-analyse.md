@@ -18,11 +18,10 @@ Smartwatch Apple Series
 
 
 Apple Iphone X
-|   ---   |   ---   |
-|   * Nabijheidsensor   | ---   |
+* Nabijheidsensor
 * Gyroscoop met 3 assen.
-* Versnellingsmeter.
-* Barometer.
+* Versnellingsmeter
+* Barometer
 * Super Retina HD-display
 * 5,8‑inch all‑screen OLED-display met Multi‑Touch
 * HDR-display met resolutie van 2436 x 1125 pixels bij 458 ppi
