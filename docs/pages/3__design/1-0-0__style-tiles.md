@@ -23,5 +23,15 @@ Gekozen
 Alternatief 1
 ---
 
+<div class="row">
+  <div class="col-4">
+<div class="card" style="width: 18rem;">
+  <img class="card-img-top" src="{{ site.baseurl }}/Images/styletiles/styletile2.png" width="100%" >
+  <div class="card-body">
+    <h5 class="card-title">Wireflow 2</h5>
+  </div>
+  </div>
+  </div>
+
 Alternatief 2
 ---
