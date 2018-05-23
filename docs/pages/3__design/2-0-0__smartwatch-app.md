@@ -6,7 +6,7 @@ published: true
 # ─────────────────────
 title: Smartwatch-app
 ---
-
+<div class='container'>
 <div class="row">
   <div class="col-4">
 <div class="card" style="width: 18rem;">
@@ -37,4 +37,5 @@ title: Smartwatch-app
   <img class="card-img-top" src="{{ site.baseurl }}/Images/Wire/Wireflow4.png" width="50%" >
   <div class="card-body">
     <h5 class="card-title">Wireflow 4</h5>
+  </div>
   </div>
