@@ -7,4 +7,6 @@ published: true
 title: Screen Designs
 ---
 
-![screen](/1718-nmd3-project-dhaenens_boone/assets/images/screen/screen1.png)
+
+<h2> Wireflow deel 3</h2>
+<img src= "{{ site.baseurl }}/1718-nmd3-project-dhaenens_boone/docs/assets/Images/Screen/Screen1.png" width='100%'>
