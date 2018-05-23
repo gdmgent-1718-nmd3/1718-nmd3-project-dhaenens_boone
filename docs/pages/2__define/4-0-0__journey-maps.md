@@ -8,7 +8,7 @@ title: Journey Maps
 ---
 
 Journey Map 1
-***
+---
 
 > Karel is barman van beroep. Hij is getrouwd en heeft vorig jaar zijn 1ste kindje gekregen.
 > Karel is een levensgenieter. Naast barman is Karel ook bezig met het brouwen van zijn eigen bier. Hij heeft een amateurstel aangekocht via 2dehands.be en is zo gestart met zijn hobby. Karel is niet uit op rijkdom. Hij wil de wereld, zichzelf, zijn talenten & interesses verkennen.
@@ -33,3 +33,10 @@ Op het einde van rondleiding komt hij de muur van Aerosol Kings tegen. Verbijste
 Na de volledige rondleiding geniet Karel van een Artisanale braadworst met een stella aan een van de vele foodtrucks. Na een rondleiding van 2 uur waarbij de app talloze keren is gebruikt om informatie te verschaffen plant Karel zijn terugweg naar huis, hij moet niet meer kijken voor een ticket aangezien dit een heen & terug reis is. Dus vertrekt Karel naar huis. 
 
 Eenmaal thuis aangekomen toont hij aan zijn vrouw de werken die hij daar heeft kunnen zien. Ook toont hij 1 van de aankomende evenementen in meatpack, Zijn vrouw is geïnteresseerd. Ze huren een babysit, en bestellen 2 tickets met treintickets richting Antwerpen voor aankomende zaterdag. Karel is overweldigd door zijn bezoek & heeft heel veel bij geleerd over zowel de historie als diversiteit van de Belgische graffitiscene, informatie die hij zonder de app moeilijk had kunnen bemachtigen. De app heeft het museumbezoek enorm ondersteund & maakt het interactiever.
+
+
+{%- assign total = 0.0 %}
+{%- for item in include.timesheet %}
+{%- assign total = total | plus: item.time %}
+{%- endfor %}
+{:.table.table--primary}
