@@ -8,7 +8,7 @@ title: Wireflow
 ---
 
 <div class="row">
-<div class="col-4>"
+<div class="col-4">
 <h2> Wireflow deel 1</h2>
 <img src= "{{ site.baseurl }}/images/wire/wireflow1.png" width='100%'>
 </div></div>
