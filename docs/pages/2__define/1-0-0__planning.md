@@ -15,9 +15,14 @@ title: Planning
 |   08/03   |   Voorstelling elevator pitch 
 |   15/03   |   Ideaboard aanleggen
 |   15/03  |   Werken aan wireframes
-|   29/03   |   Wireframes afwerken 
-|   03/04   |   Werken aan screen designs
-|   12/04   |   Screen designs afwerken   
+|   03/04  |   Wireframes afwerken 
+|   12/04  |   Werken aan screen designs
+|   18/04  |   Screen designs afwerken  
+|   20/04  |  Productiedossier afwerken  
+|   05/05   |   Productiedossier afwerken
+|   17/05   |   
+|   24/05   |   Feedback
+|   30/05   |   Indienen 
 
 {%- assign total = 0.0 %}
 {%- for item in include.timesheet %}
