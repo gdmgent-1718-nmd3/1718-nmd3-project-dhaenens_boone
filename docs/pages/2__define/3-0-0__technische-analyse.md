@@ -37,8 +37,5 @@ Apple Iphone X
 * Spat/water/stof-bestendig
 * A11 Bionic-chip met 64‑bits architectuur
 
-{%- assign total = 0.0 %}
-{%- for item in include.timesheet %}
-{%- assign total = total | plus: item.time %}
-{%- endfor %}
+
 {:.table.table--primary}
