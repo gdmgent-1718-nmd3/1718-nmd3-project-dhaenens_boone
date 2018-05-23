@@ -22,7 +22,7 @@ title: Style Tiles
 
 <div class="row">
 <div class="col-4">
-<h2>Alternatief 1</h2>
+<h2>Alternatief</h2>
 <div class="card" style="width: 18rem;">
   <img class="card-img-top" src="{{ site.baseurl }}/Images/styletiles/styletile2.png" width="100%" >
   <div class="card-body">
