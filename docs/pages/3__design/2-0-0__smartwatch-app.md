@@ -12,6 +12,5 @@ title: Smartwatch-app
 <div class="card" style="width: 18rem;">
   <img class="card-img-top" src="{{ site.baseurl }}/Images/Wireframes app/Wireflow1.png" width="50%" >
   <div class="card-body">
-    <h5 class="card-title">Wireflow</h5>
-    <p class="card-text">Wireflow 1</p>
+    <h5 class="card-title">Wireflow 1</h5>
   </div>

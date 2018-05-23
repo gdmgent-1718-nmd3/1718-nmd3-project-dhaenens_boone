@@ -9,3 +9,8 @@ title: Style Tiles
 
 Gekozen
 -------
+
+Alternatief 1
+---
+Alternatief 2
+---

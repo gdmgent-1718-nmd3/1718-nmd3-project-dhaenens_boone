@@ -6,7 +6,3 @@ published: true
 # ─────────────────────
 title: Wireflow
 ---
-
-
-![Dit is een afbeelding]
-(https:)
