@@ -6,4 +6,5 @@ published: true
 # ─────────────────────
 title: Ideaboard
 ---
-![Ideaboard](assets/Images/moodboard.png "ideaboard"){:.img-fluid}
+![Ideaboard](/1718-nmd3-project-dhaenens_boone/docs/assets/Images/Moodboard.pdf){:.img-fluid}{:style="width:100%}
+---
