@@ -7,4 +7,4 @@ published: true
 title: Ideaboard
 ---
 
-![Ideaboard](/1718-nmd3-project-dhaenens_boone/Images/Moodboard.pdf){:.img-fluid}
+![Ideaboard1](/1718-nmd3-project-dhaenens_boone/Images/Moodboard.pdf){:style="width: 100%"}
