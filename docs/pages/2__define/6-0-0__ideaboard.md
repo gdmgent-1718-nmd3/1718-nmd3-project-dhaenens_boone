@@ -7,5 +7,4 @@ published: true
 title: Ideaboard
 ---
 
-![Ideaboard]($http://dev.fabrikam.net/images/uxflow.png)
----
+![alt text](/1718-nmd3-project-dhaenens_boone/assets/images/Moodboard.png)
