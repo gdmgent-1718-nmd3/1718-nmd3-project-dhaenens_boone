@@ -6,14 +6,4 @@ published: true
 # ─────────────────────
 title: Ideaboard
 ---
-<div clas="container">
-<div class="row">
-  <div class="col-4">
-<div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="Images/moodboard.pdf" width="50%">
-  <div class="card-body">
-    <h5 class="card-title">Ideaboard</h5>
-  </div>
-</div>
-
 ![alt text](../../assets/images/moodboard.png "ideaboard"){:.img-fluid}
