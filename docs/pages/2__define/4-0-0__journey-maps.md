@@ -10,10 +10,8 @@ title: Journey Maps
 Journey Map 1
 ---
 
-'''
 Karel is barman van beroep. Hij is getrouwd en heeft vorig jaar zijn 1ste kindje gekregen.
 Karel is een levensgenieter. Naast barman is Karel ook bezig met het brouwen van zijn eigen bier. Hij heeft een amateurstel aangekocht via 2dehands.be en is zo gestart met zijn hobby. Karel is niet uit op rijkdom. Hij wil de wereld, zichzelf, zijn talenten & interesses verkennen.Samen met zijn vrouw woont hij in een appartement in Centrum-Gent. Karel tekent veel in zijn vrije tijd en is bezig met kunst, zelf zou hij er graag een stuk beter in worden dus experimenteert hij met tal van tools, waaronder stiften, verf, kleurpotloden, bister, & graffiti. Zelf kan Karel niet zo goed omgaan met een spuitbus. Dus oefent hij met Stencils die hij uitsnijd & vervolgens spuit op een muur.
-'''
 
 Karel kwam via een vriend te weten over de Tags app. Deze heeft hij geïnstalleerd en zo kwam hij te weten over een nieuw museum in een verlaten industriegebouw in het hartje van Antwerpen. Na even door de app te scrollen beslist Karel een ticket voor het Tags museum te kopen. Hij ontdekt dat je voor het uitchecken de optie krijgt om er treintickets bij te bestellen. Karel vind dit geweldig aangezien hij niet graag aanschuift in de rij. Karel betaald de Tickets & Treinticket via deze app. Karel vertrekt vanuit Gent & al meteen ondervind hij hinder met de bus & mist hij de trein die hij wou nemen. Gelukkig is hij in het bezit van een dagticket & verloopt zijn vervoerbewijs niet.
 
