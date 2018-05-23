@@ -18,4 +18,4 @@ title: Wireflow
 <img src= "{{ site.baseurl }}/images/wire/wireflow3.png" width='100%'>
 
 
-![alt text](/Users/steffiboone/Code/1718-nmd3-project-dhaenens_boone/1718-nmd3-project-dhaenens_boone/docs/assets/Images/Wire/wireflow1.png "screen")
+![alt text](assets/Images/Wire/wireflow1.png "screen")
