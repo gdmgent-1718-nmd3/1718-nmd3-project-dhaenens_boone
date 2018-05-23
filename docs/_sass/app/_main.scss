@@ -8,3 +8,11 @@
   "scrollbar",
   "typo",
   "standard";
+
+.card {
+    background-color: grayscale($color: #00000021)!important;
+  }
+
+
+img[alt=visual],
+img[alt=idea]{ width: 100%;}
