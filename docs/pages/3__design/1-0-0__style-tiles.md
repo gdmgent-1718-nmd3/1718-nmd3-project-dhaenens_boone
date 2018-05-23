@@ -9,6 +9,7 @@ title: Style Tiles
 
 Gekozen
 -------
+
 ![Ideaboard1](/1718-nmd3-project-dhaenens_boone/docs/assets/Images/Moodboard.pdf){style="width:100%"}
 
 
