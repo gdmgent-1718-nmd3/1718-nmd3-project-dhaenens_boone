@@ -9,7 +9,7 @@ title: Wireflow
 
 
 <h2> Wireflow deel 1</h2>
-<img src= "{{ site.baseurl }}/images/wire/wireflow1.png" width='100%'>
+<img src= "{{ site.baseurl }}/Images/Wire/wireflow1.png" width='100%'>
 
 <h2> Wireflow deel 2</h2>
 <img src= "{{ site.baseurl }}/images/wire/wireflow2.png" width='100%'>
