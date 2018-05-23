@@ -6,4 +6,4 @@ published: true
 # ─────────────────────
 title: Ideaboard
 ---
- ![Ideaboard](/assets/images/moodboard_Tags.ai.pdf)
+ ![Ideaboard]/assets/images/moodboard_Tags.ai.pdf)
