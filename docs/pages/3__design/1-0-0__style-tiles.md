@@ -7,9 +7,7 @@ published: true
 title: Style Tiles
 ---
 
-Gekozen
--------
-
+<h2>Gekozen</h2>
 <div class="row">
   <div class="col-4">
 <div class="card" style="width: 18rem;">
@@ -20,9 +18,7 @@ Gekozen
   </div>
   </div>
 
-Alternatief 1
----
-
+<h2>Alternatief 1</h2>
 <div class="row">
   <div class="col-4">
 <div class="card" style="width: 18rem;">
