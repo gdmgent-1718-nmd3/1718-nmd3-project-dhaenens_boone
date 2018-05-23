@@ -7,6 +7,11 @@ published: true
 title: Smartwatch-app
 ---
 
-![test image size]{/docs/assets/Images/Wireframes app/Wireflow1.png?raw=true}
-
-![test image size]{:Wireflow1.png}
+<div class="row">
+  <div class="col-4">
+<div class="card" style="width: 18rem;">
+  <img class="card-img-top" src="{{ site.baseurl }}/Images/Wireframes app/Wireflow1.png" width="50%" >
+  <div class="card-body">
+    <h5 class="card-title">Wireflow</h5>
+    <p class="card-text">Wireflow 1</p>
+  </div>
