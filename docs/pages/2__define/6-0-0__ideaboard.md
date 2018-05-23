@@ -15,3 +15,5 @@ title: Ideaboard
     <h5 class="card-title">Ideaboard</h5>
   </div>
 </div>
+
+![alt text](../../assets/images/moodboard.png "ideaboard"){:.img-fluid}

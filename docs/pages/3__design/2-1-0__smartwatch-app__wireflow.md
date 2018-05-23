@@ -18,7 +18,7 @@ title: Wireflow
   <div class="row">
   <div class="col-4">
 <div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="{{ site.baseurl }}/Images/Wire/Wireflow2.png" width="50%" >
+  <img class="card-img-top" src="Images/Wire/Wireflow2.png" width="50%" >
   <div class="card-body">
     <h5 class="card-title">Wireflow 2</h5>
   </div>
