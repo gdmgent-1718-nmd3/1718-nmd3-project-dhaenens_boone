@@ -7,9 +7,10 @@ published: true
 title: Style Tiles
 ---
 
-<h2>Gekozen</h2>
+
 <div class="row">
-  <div class="col-4">
+<div class="col-4">
+<h2>Gekozen</h2>
 <div class="card" style="width: 18rem;">
   <img class="card-img-top" src="{{ site.baseurl }}/Images/styletiles/styletile1.png" width="100%" >
   <div class="card-body">
@@ -18,9 +19,10 @@ title: Style Tiles
   </div>
   </div>
 
-<h2>Alternatief 1</h2>
+
 <div class="row">
-  <div class="col-4">
+<div class="col-4">
+<h2>Alternatief 1</h2>
 <div class="card" style="width: 18rem;">
   <img class="card-img-top" src="{{ site.baseurl }}/Images/styletiles/styletile2.png" width="100%" >
   <div class="card-body">
@@ -28,6 +30,3 @@ title: Style Tiles
   </div>
   </div>
   </div>
-
-Alternatief 2
----
