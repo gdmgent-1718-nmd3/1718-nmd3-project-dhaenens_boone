@@ -9,12 +9,15 @@ title: Planning
 
 |Datum|Opdracht|       
 |-----|--------|
-|   Week 01   |   Briefing opdracht  |
-|   Week 02   |   Museumbezoek
-|   Week 03   |   Afwerken elevator pitch/ Feedback
-|   Week 04   |   Voorstelling elevator pitch  
-|   Week 05   |   Wireframes/flow afwerken  
-|   Week 06   |   Screen designs afwerken   
+|   12/02  |   Briefing opdracht  |
+|   23/02   |   Museumbezoek
+|   06/03  |   Afwerken elevator pitch/ Feedback
+|   08/03   |   Voorstelling elevator pitch 
+|   15/03   |   Ideaboard aanleggen
+|   15/03  |   Werken aan wireframes
+|   29/03   |   Wireframes afwerken 
+|   03/04   |   Werken aan screen designs
+|   12/04   |   Screen designs afwerken   
 
 {%- assign total = 0.0 %}
 {%- for item in include.timesheet %}
