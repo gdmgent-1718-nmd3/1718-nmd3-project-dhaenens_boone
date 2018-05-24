@@ -14,3 +14,10 @@ title: Wireflow
 
 <h2> Wireflow deel 3</h2>
 <img src= "../../assets/Images/Wire/Wireflow3.png" width='100%'>
+
+<h2> Wireflow deel 4</h2>
+<img src= "../../assets/Images/Wire/Wireflow3.png" width='100%'>
+
+<h2> Wireflow deel 5</h2>
+<img src= "../../assets/Images/Wire/Wireflow3.png" width='100%'>
+
