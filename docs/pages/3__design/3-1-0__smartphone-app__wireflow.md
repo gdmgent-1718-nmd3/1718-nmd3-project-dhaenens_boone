@@ -8,7 +8,8 @@ title: Wireflow
 ---
 
 <h1>Part 1</h1>
-<img src= "../../assets/Images/SM_Wire.png"> 
+<p></p>
+<img src= "../../assets/Images/SM_Wire1.png"> 
 
 <h1>Part 2</h1>
 <img src= "../../assets/Images/SM_Wire2.png"> 
