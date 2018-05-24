@@ -6,4 +6,6 @@ published: true
 # ─────────────────────
 title: Style Tiles
 ---
-![mijn afbeelding alt-txt]({{ '/images/logo/logo.png' | relative_url }})
+<img src="../../assets/Images/Moodboard.jpg" width="50%">
+
+![mijn afbeelding alt-txt]({{ '/images/Rise1.png' | relative_url }})
