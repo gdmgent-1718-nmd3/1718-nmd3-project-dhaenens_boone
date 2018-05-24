@@ -6,7 +6,9 @@ published: true
 # ─────────────────────
 title: Style Tiles
 ---
-<h2>StyleTile 1</h2>
+
+Gekozen
+---
 <img src= "../../assets/Images/styletiles/StyleTile1" width='100%'>
 
 <h2>StyleTile 2</h2>
