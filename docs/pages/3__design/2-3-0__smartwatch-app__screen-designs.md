@@ -6,4 +6,4 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
-<img src="../../assets/Images/SM_screen.png">
+<img src="../../assets/Images/SW_screen.png">
