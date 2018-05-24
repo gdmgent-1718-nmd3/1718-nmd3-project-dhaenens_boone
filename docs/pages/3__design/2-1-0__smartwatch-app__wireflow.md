@@ -16,6 +16,3 @@ title: Wireflow
 
 <h2> Wireflow deel 3</h2>
 <img src= "{{ site.baseurl }}/images/wire/wireflow3.png" width='100%'>
-
-
-![alt text](assets/Images/Wire/wireflow1.png "screen")

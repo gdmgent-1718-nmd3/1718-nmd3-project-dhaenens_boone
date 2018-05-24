@@ -18,6 +18,18 @@ Smartwatch Apple Series
 * Mogelijkheid tot voice-command, via de app 'Siri'.
 
 
+* Mogelijkheid tot gebruik van een draadloze koptelefoon of airpods.
+* Wifi (802.11b/g/n 2,4 GHz)
+* Bluetooth
+* Oled Retina-display met Force Touch
+* Display bestaande uit saffier kristallen.
+* Kast bestaande uit roestvrij staal en keramiek
+* Ion-X-glas
+* 272 x 340 pixels (38 mm)
+* 312 x 390 pixels (42 mm)
+* Dual-core processor
+
+
 Apple Iphone X
 ---
 * Nabijheidsensor
