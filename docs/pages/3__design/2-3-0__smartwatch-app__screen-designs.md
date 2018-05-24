@@ -6,6 +6,4 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
-
-<h2> Wireflow deel 1</h2>
-<img src= "../../assets/Images/screen/screen1.png" width='100%'>
+<img src="../../assets/Images/SM_screen.png">
