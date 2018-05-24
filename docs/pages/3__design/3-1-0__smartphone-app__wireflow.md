@@ -6,4 +6,11 @@ published: true
 # ─────────────────────
 title: Wireflow
 ---
-![screen](/1718-nmd3-project-dhaenens_boone/docs/assets/Images/Wire/Wireflow1.png)
+<h2> Wireflow deel 1</h2>
+<img src= "../../assets/Images/Wire/Wireflow1.png" width='100%'>
+
+<h2> Wireflow deel 2</h2>
+<img src= "../../assets/Images/Wire/Wireflow2.png" width='100%'>
+
+<h2> Wireflow deel 3</h2>
+<img src= "../../assets/Images/Wire/Wireflow3.png" width='100%'>
