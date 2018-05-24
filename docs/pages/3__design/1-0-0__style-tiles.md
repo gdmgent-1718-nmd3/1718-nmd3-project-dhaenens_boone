@@ -6,4 +6,4 @@ published: true
 # ─────────────────────
 title: Style Tiles
 ---
-<img src=">
+<img src=" 1718-nmd3-project-dhaenens_boone/docs/assets/Images/StyleTiles/StyleTile1.png">
