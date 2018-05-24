@@ -12,7 +12,7 @@ title: Style Tiles
 <div class="col-4">
 <h2>Gekozen</h2>
 <div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="{{ site.baseurl }}/Images/styletiles/styletile1.png" width="100%" >
+  <img class="card-img-top" src="../../assets/Images/StyleTiles/StyleTile1.png" width="100%" >
   <div class="card-body">
     <h5 class="card-title">Wireflow 1</h5>
   </div>
@@ -24,7 +24,7 @@ title: Style Tiles
 <div class="col-4">
 <h2>Alternatief</h2>
 <div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="{{ site.baseurl }}/Images/styletiles/styletile2.png" width="100%" >
+  <img class="card-img-top" src="../../assets/Images/StyleTiles/Styletile2-100.jpg" width="100%" >
   <div class="card-body">
     <h5 class="card-title">Wireflow 2</h5>
   </div>
