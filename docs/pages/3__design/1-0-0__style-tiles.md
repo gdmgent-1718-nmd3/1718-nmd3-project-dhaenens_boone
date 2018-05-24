@@ -20,9 +20,6 @@ Gekozen
   </div>
   </div>
 
-Alternatief 1
----
-
 <div class="row">
 <div class="col-4">
 <h2>Alternatief</h2>
@@ -33,10 +30,6 @@ Alternatief 1
   </div>
   </div>
   </div>
-
-
-Alternatief 2
----
 
 <div class="row">
 <div class="col-4">
