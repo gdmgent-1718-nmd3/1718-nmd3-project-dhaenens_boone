@@ -6,7 +6,4 @@ published: true
 # ─────────────────────
 title: Wireflow
 ---
-<img src= "../../assets/Images/Wireframes_smartphone/wireflow1.png" width='100%'>
-
-
-<img src="../../assets/Images/Moodboard.jpg" width="75%">
+<img src=" 1718-nmd3-project-dhaenens_boone/docs/assets/Images/SW_Wire.png " width="100%">
