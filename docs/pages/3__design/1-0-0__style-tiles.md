@@ -6,6 +6,6 @@ published: true
 # ─────────────────────
 title: Style Tiles
 ---
-<img src="../../assets/Images/StyleTiles/StyleTile1.png">
-<img src="../../assets/Images/StyleTiles/StyleTile2.png">
-<img src="../../assets/Images/StyleTiles/StyleTile3.png >
+<img src="../../assets/Images/StyleTiles/StyleTile1.png" width="250">
+<img src="../../assets/Images/StyleTiles/StyleTile2.png" width="250">
+<img src="../../assets/Images/StyleTiles/StyleTile3.png" width="250">
