@@ -6,4 +6,4 @@ published: true
 # ─────────────────────
 title: Wireflow
 ---
-<img src=".../.../assets/Images/SW_Wire.png " width="100%">
+<img src="../../assets/Images/SW_Wire.png " width="100%">
