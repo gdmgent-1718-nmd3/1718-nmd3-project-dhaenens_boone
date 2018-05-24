@@ -6,17 +6,7 @@ published: true
 # ─────────────────────
 title: Wireflow
 ---
-<h2> Wireflow deel 1</h2>
-<img src= "../../assets/Images/Wire/Wireflow1.png" width='100%'>
+<img src= "../../assets/Images/Wireframes_smartphone/wireflow1.png" width='100%'>
 
-<h2> Wireflow deel 2</h2>
-<img src= "../../assets/Images/Wire/Wireflow2.png" width='100%'>
 
-<h2> Wireflow deel 3</h2>
-<img src= "../../assets/Images/Wire/Wireflow3.png" width='100%'>
-
-<h2> Wireflow deel 4</h2>
-<img src= "../../assets/Images/Wire/Wireflow3.png" width='100%'>
-
-<h2> Wireflow deel 5</h2>
-<img src= "../../assets/Images/Wire/Wireflow3.png" width='100%'>
+<img src="../../assets/Images/Moodboard.jpg" width="75%">
