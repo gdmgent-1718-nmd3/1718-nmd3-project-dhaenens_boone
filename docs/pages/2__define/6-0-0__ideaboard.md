@@ -6,4 +6,4 @@ published: true
 # ─────────────────────
 title: Ideaboard
 ---
-<img src="../../assets/Images/Moodboard.jpg">
+<img src="../../assets/Images/Moodboard.jpg" width="50%">
