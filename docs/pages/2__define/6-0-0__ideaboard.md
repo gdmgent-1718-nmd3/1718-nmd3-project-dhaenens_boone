@@ -6,5 +6,4 @@ published: true
 # ─────────────────────
 title: Ideaboard
 ---
-
-![idea](/Users/steffiboone/Code/1718-nmd3-project-dhaenens_boone/docs/assets/Images/Moodboard.pdf)
+<img src="../../assets/Images/StyleTiles/StyleTile1.png"> 
