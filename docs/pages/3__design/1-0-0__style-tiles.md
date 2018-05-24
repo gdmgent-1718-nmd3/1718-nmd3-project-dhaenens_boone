@@ -6,5 +6,4 @@ published: true
 # ─────────────────────
 title: Style Tiles
 ---
-
-![mijn afbeelding alt-txt]({{ '/images/Rise1.png' | relative_url }})
+<img src=">
