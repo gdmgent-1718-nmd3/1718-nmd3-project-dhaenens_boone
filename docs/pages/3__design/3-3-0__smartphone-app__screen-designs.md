@@ -6,16 +6,17 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
-<div class="row">
-<div class='col-5'>
-<img src="../../assets/Images/SM_screen.png">
-</div></div>
+<h1>Part 1</h1>
+<img src="../../assets/Images/SM_screen.png" width="600">
 
+<h1>Part 2</h1>
+<img src="../../assets/Images/SM_screen2.png" width="600">
 
-<div class="row">
-<div class='col-5'>
-<img src="../../assets/Images/SM_screen2.png">
-</div></div>
+<h1>Part 3</h1>
+<img src="../../assets/Images/SM_screen3.png" width="600">
 
+<h1>Part 3</h1>
+<img src="../../assets/Images/SM_screen4.png" width="600">
 
-<img src="../../assets/Images/SM_screen3.png">
+<h1>Part 3</h1>
+<img src="../../assets/Images/SM_screen5.png" width="600">
