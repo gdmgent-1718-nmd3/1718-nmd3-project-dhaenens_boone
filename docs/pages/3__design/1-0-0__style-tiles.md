@@ -13,10 +13,10 @@ Gekozen
 
 <<<<<<< HEAD
 <h2>StyleTile 2</h2>
-<img src= "../../assets/Images/styletiles/StyleTile2" width='100%'>
+<img src= "../../assets/Images/Styletiles/StyleTile2" width='100%'>
 
 <h2>StyleTile 3</h2>
-<img src= "../../assets/Images/styletiles/StyleTile3" width='100%'>
+<img src= "../../assets/Images/Styletiles/StyleTile3" width='100%'>
 =======
 <div class="row">
 <div class="col-4">
