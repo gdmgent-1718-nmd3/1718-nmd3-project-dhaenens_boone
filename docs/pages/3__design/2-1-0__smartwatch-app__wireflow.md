@@ -6,7 +6,5 @@ published: true
 # ─────────────────────
 title: Wireflow
 ---
-
-
 <h2>Smartwatch Wireflow</h2>
 <img src="../../assets/Images/SW_Wire.png">
