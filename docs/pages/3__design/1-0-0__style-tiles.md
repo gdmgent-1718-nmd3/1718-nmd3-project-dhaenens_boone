@@ -4,15 +4,11 @@ permalink: design/style-tiles/
 published: true
 # Custom Page Variables
 # ─────────────────────
----
-
 Styletiles
 ---
 
-<div class="content">
 <h2>Gekozen</h2>
 <img src="../../assets/Images/StyleTile3.png" width="100%">
-</div>
 
 
 <h2>Alternatief 1</h2>
