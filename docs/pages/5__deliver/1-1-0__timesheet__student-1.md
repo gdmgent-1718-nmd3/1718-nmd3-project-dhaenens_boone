@@ -4,11 +4,8 @@ permalink: deliver/timesheets/student-1/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Student 1
+title: Boone Steffi
 ---
-
-<h1>Boone Steffi</h1>
-    
 <table class="table table--primary">
   <thead>
     <tr>
