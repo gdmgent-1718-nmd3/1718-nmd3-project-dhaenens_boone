@@ -6,7 +6,7 @@ $scrollbar-width: .4em;
   width: $scrollbar-width;
 }
 ::-webkit-scrollbar-track {
-  background: rgba($dark, .2);
+  background: rgba($primary, .2);
     // -webkit-box-shadow: none;
 }
 ::-webkit-scrollbar-thumb {
