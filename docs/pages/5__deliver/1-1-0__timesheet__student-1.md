@@ -50,8 +50,7 @@ title: Student 1
       <td style="text-align: right">1.50</td>
     </tr>
     <tr>
-   
-      <td>Ontwerp wireflow website.</td>
+   <td>Ontwerp wireflow website.</td>
       <td style="text-align: right">1.50</td>
     </tr>
     <tr>
