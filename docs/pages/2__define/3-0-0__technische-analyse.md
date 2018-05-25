@@ -7,8 +7,10 @@ published: true
 title: Technische Analyse
 ---
 
-Smartwatch Apple Series   
----  
+<div class="container">
+<div class="row">
+<div class="col-5">
+<h2>Smartwatch Apple Series</h2>
 * Waterbestendigheid tot 50m.De smartwatch is dus geschikt voor duiken in ondiep water en zwemmen.
 * Mogelijkheid om snel berichten te lezen via een bewegingssensor. Je hoeft slechts je arm op te tillen, en het scherm zal oplichten en het bericht vertonen op de display. 
 * Bediening van het apparaat via touchscreen. Enkel aanpassingen van geluid en klok gebeuren via 2 eenvoudige knoppen aan de zijkant van het apparaat.
@@ -16,7 +18,7 @@ Smartwatch Apple Series
 * Ingebouwde GPS.
 * Gyroscoop.
 * Mogelijkheid tot voice-command, via de app 'Siri'.
-
+</div >
 
 * Mogelijkheid tot gebruik van een draadloze koptelefoon of airpods.
 * Wifi (802.11b/g/n 2,4 GHz)
@@ -28,7 +30,8 @@ Smartwatch Apple Series
 * 272 x 340 pixels (38 mm)
 * 312 x 390 pixels (42 mm)
 * Dual-core processor
-
+</div>
+</div>
 
 Apple Iphone X
 ---
