@@ -47,10 +47,11 @@ title: Technische Analyse
 </ul>
 </div>
 </div>
+</div>
 
 
 
-
+<div class="content">
 <h2 class="row col-12">Apple Iphone X</h2>
 
 <div class="row">
