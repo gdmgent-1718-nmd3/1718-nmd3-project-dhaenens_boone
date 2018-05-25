@@ -4,7 +4,7 @@ permalink: design/style-tiles/
 published: true
 # Custom Page Variables
 # ─────────────────────
-Styletiles
+title: Styletiles
 ---
 
 <h2>Gekozen</h2>
