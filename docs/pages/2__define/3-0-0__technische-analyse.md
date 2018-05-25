@@ -51,8 +51,9 @@ title: Technische Analyse
 
 <div class="row">
 <h2 class="row col-12">Apple Iphone X</div>
+
 <div class="col-4">
-<img src="../../assets/Images/Smartwatch.png" width="100%">
+<img src="../../assets/Images/IphoneX.jpg" width="100%">
 </div>
 
 <div class="col-4">
