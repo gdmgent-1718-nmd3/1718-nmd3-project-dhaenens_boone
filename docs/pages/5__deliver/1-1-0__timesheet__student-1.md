@@ -61,7 +61,7 @@ title: Student 1
   <tfoot>
     <tr>
       <td><strong>Totaal</strong></td>
-      <td style="text-align: right"><strong>107.00</strong></td>
+      <td style="text-align: right"><strong>16.25</strong></td>
     </tr>
   </tfoot>
 </table>
