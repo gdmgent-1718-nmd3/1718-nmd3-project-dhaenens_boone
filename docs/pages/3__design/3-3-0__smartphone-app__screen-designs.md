@@ -6,17 +6,13 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
-<h1>Part 1</h1>
-<img src="../../assets/Images/SM_screen.png" width="600">
+<h2>Visual Desing SmartPhone</h2>
+<img src="1718-nmd3-project-dhaenens_boone/docs/assets/Images/SM_screen1.png"
 
-<h1>Part 2</h1>
 <img src="../../assets/Images/SM_screen2.png" width="600">
 
-<h1>Part 3</h1>
 <img src="../../assets/Images/SM_screen3.png" width="600">
 
-<h1>Part 4</h1>
 <img src="../../assets/Images/SM_screen4.png" width="600">
 
-<h1>Part 5</h1>
 <img src="../../assets/Images/SM_screen5.png" width="600">
