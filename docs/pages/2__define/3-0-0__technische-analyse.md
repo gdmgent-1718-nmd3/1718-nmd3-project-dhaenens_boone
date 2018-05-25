@@ -20,6 +20,7 @@ title: Technische Analyse
 * Mogelijkheid tot voice-command, via de app 'Siri'.
 </div >
 
+<div class="col-5">
 * Mogelijkheid tot gebruik van een draadloze koptelefoon of airpods.
 * Wifi (802.11b/g/n 2,4 GHz)
 * Bluetooth
@@ -30,6 +31,7 @@ title: Technische Analyse
 * 272 x 340 pixels (38 mm)
 * 312 x 390 pixels (42 mm)
 * Dual-core processor
+</div>
 </div>
 </div>
 
