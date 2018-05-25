@@ -65,7 +65,3 @@ title: Student 1
     </tr>
   </tfoot>
 </table>
-
-</div>
-</html>
-
