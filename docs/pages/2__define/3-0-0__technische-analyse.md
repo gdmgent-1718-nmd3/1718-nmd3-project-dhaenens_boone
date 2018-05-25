@@ -73,7 +73,7 @@ title: Technische Analyse
 <ul>
 <li>True Tone-weergave. </li>
 <li>3D Touch.</li>
-<li>Maximum helderheid van 625 cd/m2.</li>
+<li>Max. helderheid van 625 cd/m2.</li>
 <li>Vingerafdruk­bestendige, vetafstotende coating. </li>
 <li>Ondersteuning gelijktijdige weergave van meerdere talen en tekensets. </li>
 <li>Facial Recognition (Face ID).</li>
