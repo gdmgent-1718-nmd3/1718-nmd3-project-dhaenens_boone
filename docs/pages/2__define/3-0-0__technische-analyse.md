@@ -12,20 +12,19 @@ title: Technische Analyse
 
 <div class="row">
 <div class="col-5">
-<h2>Smartwatch Apple Series</h2>
-<div class="table">
 <ul>
 <li>Waterbestendigheid tot 50m.De smartwatch is dus geschikt voor duiken in ondiep water en zwemmen.</li>
-* Mogelijkheid om snel berichten te lezen via een bewegingssensor. Je hoeft slechts je arm op te tillen, en het scherm zal oplichten en het bericht vertonen op de display. 
-* Bediening van het apparaat via touchscreen. Enkel aanpassingen van geluid en klok gebeuren via 2 eenvoudige knoppen aan de zijkant van het apparaat.
-* Hartslagmeter.
-* Ingebouwde GPS.
-* Gyroscoop.
+<li>Mogelijkheid om snel berichten te lezen via een bewegingssensor. Je hoeft slechts je arm op te tillen, en het scherm zal oplichten en het bericht vertonen op de display.</li>
+<li>Bediening van het apparaat via touchscreen. Enkel aanpassingen van geluid en klok gebeuren via 2 eenvoudige knoppen aan de zijkant van het apparaat.</li>
+<li>Hartslagmeter.</li>
+<li>Ingebouwde GPS.</li>
+<li>Gyroscoop.</li>
 * Mogelijkheid tot voice-command, via de app 'Siri'.
 </ul>
 </div >
 
 <div class="col-5">
+<ul>
 * Mogelijkheid tot gebruik van een draadloze koptelefoon of airpods.
 * Wifi (802.11b/g/n 2,4 GHz)
 * Bluetooth
@@ -36,6 +35,7 @@ title: Technische Analyse
 * 272 x 340 pixels (38 mm)
 * 312 x 390 pixels (42 mm)
 * Dual-core processor
+</ul>
 </div>
 </div>
 </div>
