@@ -7,7 +7,7 @@ published: true
 title: Student 1
 ---
 
-<h1>Student 1</h1>
+<h1>Boone Steffi</h1>
     
 <table class="table table--primary">
   <thead>
