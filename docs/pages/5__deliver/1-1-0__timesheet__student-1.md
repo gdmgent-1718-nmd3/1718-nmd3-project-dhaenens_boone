@@ -69,4 +69,3 @@ title: Student 1
 </div>
 </html>
 
-{% include timesheet.md timesheet=site.data.timesheet-1 %}
