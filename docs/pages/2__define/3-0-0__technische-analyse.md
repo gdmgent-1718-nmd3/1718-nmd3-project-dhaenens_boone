@@ -8,6 +8,7 @@ title: Technische Analyse
 ---
 
 <div class="container">
+<div class='content'>
 <h2 class="row col-12">Smartwatch Apple Series</h2>
 
 <div class="row">
@@ -49,7 +50,7 @@ title: Technische Analyse
 </div>
 
 
-<div class='content>
+
 <h2 class="row col-12">Apple Iphone X</h2>
 
 <div class="row">
