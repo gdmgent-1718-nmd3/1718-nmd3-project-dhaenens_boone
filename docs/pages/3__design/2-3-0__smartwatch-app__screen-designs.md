@@ -6,4 +6,5 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
+<h2>Visual Design SmartWatch</h2>
 <img src="../../assets/Images/SW_screen.png">
