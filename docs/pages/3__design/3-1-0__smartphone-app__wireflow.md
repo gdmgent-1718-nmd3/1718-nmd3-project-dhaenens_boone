@@ -10,12 +10,16 @@ title: Wireflow
 Part 1
 ---
 
-<img src= "../../assets/Images/SM_screen1.png" width="600">
+<img src= "../../assets/Images/SM_wire1.png" width="600"> 
 
-<h1>Part 2</h1>
+Part 2
+---
+
 <img src= "../../assets/Images/SM_wire2.png" width="600"> 
 
-<h1>Part 3</h1>
+Part 3
+---
+
 <img src= "../../assets/Images/SM_wire3.png" width="600">
 
 <h1>Part 4</h1>
