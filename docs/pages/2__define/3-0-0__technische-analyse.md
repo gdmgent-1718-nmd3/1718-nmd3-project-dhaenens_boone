@@ -49,7 +49,7 @@ title: Technische Analyse
 </div>
 
 
-
+<div class='content>
 <h2 class="row col-12">Apple Iphone X</h2>
 
 <div class="row">
@@ -80,5 +80,6 @@ title: Technische Analyse
 <li>Spat/water/stof-bestendig.</li>
 <li>A11 Bionic-chip met 64‑bits architectuur</li>
 </ul>
+</div>
 </div>
 
