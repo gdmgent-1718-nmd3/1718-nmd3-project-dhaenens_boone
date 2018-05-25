@@ -6,9 +6,9 @@ published: true
 # ─────────────────────
 ---
 
-<h1>Gekozen</h1>
+<h2>Gekozen</h2>
 <img src="../../assets/Images/StyleTile3.png" width="100%">
-<h1>Alternatief 1</h1>
+<h2>Alternatief 1</h2>
 <img src="../../assets/Images/StyleTile2.png" width="100%">
-<h1>Alternatief 2</h1>
+<h2>Alternatief 2</h2>
 <img src="../../assets/Images/StyleTile1.png" width="100%">
