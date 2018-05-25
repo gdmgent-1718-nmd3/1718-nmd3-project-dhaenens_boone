@@ -37,14 +37,11 @@ title: Technische Analyse
 <li>Display bestaande uit saffier kristallen.</li>
 <li>Kast bestaande uit roestvrij staal en keramiek.</li>
 <li>Ion-X-glas.</li>
-<li>272 x 340 pixels (38 mm).</li>
 <li>312 x 390 pixels (42 mm)?</li>
 <li>Dual-core processor.</li>
-
 <li>Hartslagmeter.</li>
 <li>Ingebouwde GPS.</li>
-<li>Gyroscoop.</li>
-<li>Mogelijkheid tot voice-command, via de app 'Siri'.</li>
+<li>Voice-command via de app 'Siri'.</li>
 </ul>
 </div>
 </div>
