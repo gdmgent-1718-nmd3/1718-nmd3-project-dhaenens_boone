@@ -25,10 +25,6 @@ title: Technische Analyse
 
 <li>Bediening van het apparaat via touchscreen. Enkel aanpassingen van geluid en klok gebeuren via 2 eenvoudige knoppen aan de zijkant van het apparaat.</li>
 
-<li>Hartslagmeter.</li>
-<li>Ingebouwde GPS.</li>
-<li>Gyroscoop.</li>
-<li>Mogelijkheid tot voice-command, via de app 'Siri'.</li>
 </ul>
 </div>
 
@@ -44,6 +40,11 @@ title: Technische Analyse
 <li>272 x 340 pixels (38 mm).</li>
 <li>312 x 390 pixels (42 mm)?</li>
 <li>Dual-core processor.</li>
+
+<li>Hartslagmeter.</li>
+<li>Ingebouwde GPS.</li>
+<li>Gyroscoop.</li>
+<li>Mogelijkheid tot voice-command, via de app 'Siri'.</li>
 </ul>
 </div>
 </div>
