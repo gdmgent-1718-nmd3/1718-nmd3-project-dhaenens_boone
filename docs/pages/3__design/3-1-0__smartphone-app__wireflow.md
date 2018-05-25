@@ -10,7 +10,7 @@ title: Wireflow
 <h1>Part 1</h1>
 
 
-<img src= "../../assets/Images/SM_screen1.png">
+<img src= "../../assets/Images/SM_screen1.png" width="600">
 
 <h1>Part 2</h1>
 
