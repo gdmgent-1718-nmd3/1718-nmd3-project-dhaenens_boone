@@ -7,7 +7,8 @@ published: true
 title: Wireframes
 ---
 
-<h1>Part 1</h1>
-<img src="../../assets/Images/Web_wire1.png">
-<h1>Part 1</h1>
-<img src="../../assets/Images/Web_wire2.png">
+<h2>Wireframe Navigatie</h2>
+<img src="../../assets/Images/Web_wire1.png" width="100%">
+
+<h2>Wireframe Account</h2>
+<img src="../../assets/Images/Web_wire2.png" width="100%">
