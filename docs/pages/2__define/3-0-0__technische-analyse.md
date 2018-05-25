@@ -82,9 +82,3 @@ title: Technische Analyse
 </ul>
 </div>
 
-
-{%- assign total = 0.0 %}
-{%- for item in include.timesheet %}
-{%- assign total = total | plus: item.time %}
-{%- endfor %}
-{:.table.table--primary}
