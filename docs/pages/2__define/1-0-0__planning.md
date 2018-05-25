@@ -20,9 +20,10 @@ title: Planning
 |   18/04  |   Screen designs afwerken  
 |   20/04  |  Productiedossier afwerken  
 |   05/05   |   Productiedossier afwerken
-|   17/05   |   
+|   17/05   |   Afwerken
 |   24/05   |   Feedback
-|   30/05   |   Indienen 
+|   30/05   |   Feedback
+|   04/06   |   Indienen en voorstelling opdracht. 
 
 {%- assign total = 0.0 %}
 {%- for item in include.timesheet %}
