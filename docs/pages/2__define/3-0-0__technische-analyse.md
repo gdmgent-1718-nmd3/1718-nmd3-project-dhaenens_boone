@@ -19,6 +19,7 @@ title: Technische Analyse
 <div class="col-4">
 <ul>
 <li>Waterbestendigheid tot 50m.De smartwatch is dus geschikt voor duiken in ondiep water en zwemmen.</li>
+
 <li>Mogelijkheid om snel berichten te lezen via een bewegingssensor. Je hoeft slechts je arm op te tillen, en het scherm zal oplichten en het bericht vertonen op de display.</li>
 
 <li>Bediening van het apparaat via touchscreen. Enkel aanpassingen van geluid en klok gebeuren via 2 eenvoudige knoppen aan de zijkant van het apparaat.</li>
@@ -47,24 +48,37 @@ title: Technische Analyse
 </div>
 </div>
 
-Apple Iphone X
----
-* Nabijheidsensor
-* Gyroscoop met 3 assen.
-* Versnellingsmeter
-* Barometer
-* Super Retina HD-display
-* 5,8‑inch all‑screen OLED-display met Multi‑Touch
-* HDR-display met resolutie van 2436 x 1125 pixels bij 458 ppi
-* Contrast­verhouding 1.000.000:1
-* True Tone-weergave
-* 3D Touch
-* Max. helderheid 625 cd/m2
-* Vingerafdruk­bestendige, vetafstotende coating
-* Ondersteuning gelijktijdige weergave van meerdere talen en tekensets
-* Facial Recognition (Face ID)
-* Spat/water/stof-bestendig
-* A11 Bionic-chip met 64‑bits architectuur
+
+<div class="row">
+<h2 class="row col-12">Apple Iphone X</div>
+<div class="col-4">
+<img src="../../assets/Images/Smartwatch.png" width="100%">
+</div>
+
+<div class="col-4">
+<ul>
+<li>Voorzien van een nabijheidsensor.</li>
+<li>Gyroscoop met 3 assen.</li>
+<li>Versnellingsmeter.</li>
+<li>Barometer.</li>
+<li>Super Retina HD-display.</li>
+<li>5,8‑inch all‑screen OLED-display met Multi‑Touch. </li>
+<li>HDR-display met resolutie van 2436 x 1125 pixels bij 458 ppi.</li>
+<li>Contrast­verhouding 1.000.000:1.</li>
+</ul>
+</div>
+<div class="col-4">
+<ul>
+<li>True Tone-weergave. </li>
+<li>3D Touch.</li>
+<li>Maximum helderheid van 625 cd/m2.</li>
+<li>Vingerafdruk­bestendige, vetafstotende coating. </li>
+<li>Ondersteuning gelijktijdige weergave van meerdere talen en tekensets. </li>
+<li>Facial Recognition (afgekort: Face ID).</li>
+<li>Spat/water/stof-bestendig.</li>
+<li>A11 Bionic-chip met 64‑bits architectuur</li>
+</ul>
+</div>
 
 
 {%- assign total = 0.0 %}
