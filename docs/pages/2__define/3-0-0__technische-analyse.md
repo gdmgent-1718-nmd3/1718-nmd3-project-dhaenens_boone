@@ -76,7 +76,7 @@ title: Technische Analyse
 <li>Maximum helderheid van 625 cd/m2.</li>
 <li>Vingerafdruk­bestendige, vetafstotende coating. </li>
 <li>Ondersteuning gelijktijdige weergave van meerdere talen en tekensets. </li>
-<li>Facial Recognition (afgekort: Face ID).</li>
+<li>Facial Recognition (Face ID).</li>
 <li>Spat/water/stof-bestendig.</li>
 <li>A11 Bionic-chip met 64‑bits architectuur</li>
 </ul>
