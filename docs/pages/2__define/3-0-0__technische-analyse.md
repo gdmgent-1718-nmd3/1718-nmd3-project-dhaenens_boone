@@ -13,7 +13,7 @@ title: Technische Analyse
 <div class="row">
 
 <div class="col-5">
-<img src="../../assets/Images/Smartwatch.png" width="80%">
+<img src="../../assets/Images/Smartwatch.png" width="90%">
 </div>
 
 <div class="col-3">
