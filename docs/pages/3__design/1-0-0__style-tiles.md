@@ -5,6 +5,9 @@ published: true
 # Custom Page Variables
 # ─────────────────────
 ---
+Styletiles
+---
+
 
 <h2>Gekozen</h2>
 <img src="../../assets/Images/StyleTile3.png" width="100%">
