@@ -9,4 +9,4 @@ title: Ideaboard
 
 
 <h2>Ideaboard 1</h2>
-<img src="../../assets/Images/Moodboard.jpg" width="75%">
+<img src="../../assets/Images/Moodboard.jpg" width="100%">
