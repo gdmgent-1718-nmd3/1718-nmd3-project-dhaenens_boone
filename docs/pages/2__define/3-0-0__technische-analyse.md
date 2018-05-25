@@ -11,7 +11,7 @@ title: Technische Analyse
 <h2 class="row col-12">Smartwatch Apple Series</h2>
 
 <div class="row">
-<div class="col-5">
+<div class="col-3">
 <ul>
 <li>Waterbestendigheid tot 50m.De smartwatch is dus geschikt voor duiken in ondiep water en zwemmen.</li>
 <li>Mogelijkheid om snel berichten te lezen via een bewegingssensor. Je hoeft slechts je arm op te tillen, en het scherm zal oplichten en het bericht vertonen op de display.</li>
@@ -23,7 +23,7 @@ title: Technische Analyse
 </ul>
 </div>
 
-<div class="col-5">
+<div class="col-3">
 <ul>
 <li>Mogelijkheid tot gebruik van een draadloze koptelefoon of airpods.</li>
 <li>Wifi (802.11b/g/n 2,4 GHz).</li>
