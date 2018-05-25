@@ -16,7 +16,7 @@ title: Technische Analyse
 <img src="../../assets/Images/Smartwatch.png">
 </div>
 
-<div class="col-3">
+<div class="col-5">
 <ul>
 <li>Waterbestendigheid tot 50m.De smartwatch is dus geschikt voor duiken in ondiep water en zwemmen.</li>
 <li>Mogelijkheid om snel berichten te lezen via een bewegingssensor. Je hoeft slechts je arm op te tillen, en het scherm zal oplichten en het bericht vertonen op de display.</li>
