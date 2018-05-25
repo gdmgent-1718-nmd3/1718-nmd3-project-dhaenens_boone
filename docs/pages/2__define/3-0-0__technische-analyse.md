@@ -19,22 +19,22 @@ title: Technische Analyse
 <li>Hartslagmeter.</li>
 <li>Ingebouwde GPS.</li>
 <li>Gyroscoop.</li>
-* Mogelijkheid tot voice-command, via de app 'Siri'.
+<li>Mogelijkheid tot voice-command, via de app 'Siri'.</li>
 </ul>
-</div >
+</div>
 
 <div class="col-5">
 <ul>
-* Mogelijkheid tot gebruik van een draadloze koptelefoon of airpods.
-* Wifi (802.11b/g/n 2,4 GHz)
-* Bluetooth
-* Oled Retina-display met Force Touch
-* Display bestaande uit saffier kristallen.
-* Kast bestaande uit roestvrij staal en keramiek
-* Ion-X-glas
-* 272 x 340 pixels (38 mm)
-* 312 x 390 pixels (42 mm)
-* Dual-core processor
+<li>Mogelijkheid tot gebruik van een draadloze koptelefoon of airpods.</li>
+<li>Wifi (802.11b/g/n 2,4 GHz).</li>
+<li>Bluetooth.</li>
+<li>Oled Retina-display met Force Touch. </li>
+<li>Display bestaande uit saffier kristallen.</li>
+<li>Kast bestaande uit roestvrij staal en keramiek.</li>
+<li>Ion-X-glas.</li>
+<li>272 x 340 pixels (38 mm).</li>
+<li>312 x 390 pixels (42 mm)?</li>
+<li>Dual-core processor.</li>
 </ul>
 </div>
 </div>
