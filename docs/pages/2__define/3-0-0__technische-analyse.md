@@ -47,7 +47,7 @@ title: Technische Analyse
 </ul>
 </div>
 </div>
-</div>
+
 
 
 
@@ -81,6 +81,8 @@ title: Technische Analyse
 <li>Spat/water/stof-bestendig.</li>
 <li>A11 Bionic-chip met 64‑bits architectuur</li>
 </ul>
+</div>
+</div>
 </div>
 </div>
 
