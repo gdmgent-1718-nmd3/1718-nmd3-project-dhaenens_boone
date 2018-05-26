@@ -12,7 +12,7 @@ title: Journey Maps
 <h2 class="row class-12">Journey Map 1</h2>
 <div class="row">
 <div class="col-5">
-<img src="../../assets/Images/Journey_MAP.png" >
+<img src="../../assets/Images/Journey_MAP.png" width="100%" >
 </div>
 
 <div class="col-6">
