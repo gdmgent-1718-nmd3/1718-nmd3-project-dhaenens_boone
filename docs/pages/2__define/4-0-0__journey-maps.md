@@ -64,18 +64,21 @@ De datum en uur van het bezoek zijn al op voorhand aangegeven.
 Naomi hoeft slechts nog op ‘bevestigen’ te klikken, en wordt dan doorverwezen naar de betalings-pagina. 
 Op deze pagina wordt het bedrag getoond voor het bezoek, en de betalingsmogelijkheden. 
 Er is ook een optie om een korting in te geven. </p>
-    
+</div>
+</div>
 
-<p>In de email werd een code meegegeven die als betaling dient. Want het bedrijf neemt de kosten op zich voor dit bezoek. Naomi geeft deze code in bij de optie ‘korting’, en het bedrag wordt gemarkeerd als betaald op de volgende pagina.Op deze pagina kan Naomi een overzicht zien van de bestelling van haar ticket. Naomi drukt het ticket op voorhand al af. Naomi weet echter dat ze soms nogal vergeetachtig kan zijn, en dus kan vergeten waar ze het ticket achtergelaten heeft. Naomi ziet op de pagina dat er een optie is om het ticket doorgestuurd te krijgen via email. Op deze manier kan ze het ticket opnieuw afdrukken indien ze het origineel verliest. Naomi klikt deze optie aan, en ontvangt automatisch in haar inbox een digitale versie van het ticket.Naomi is van aard zeer nieuwsgierig, en kan dus niet wachten tot het museum bezoek. Ze wil graag op voorhand al meer te weten komen over het museum, en klikt daarom de optie ‘terug naar homepage’ aan op de huidige pagina van de website. Vanaf de homepage ziet Naomi de optie ‘digitaal bezoeken’ staan. Naomi is benieuwd naar wat deze optie inhoudt en klikt daarom op de link.</p>
-    
+<div class="row">
+<div class="col-12">
+<p>In de email werd een code meegegeven die als betaling dient. Want het bedrijf neemt de kosten op zich voor dit bezoek. Naomi geeft deze code in bij de optie ‘korting’, en het bedrag wordt gemarkeerd als betaald op de volgende pagina.Op deze pagina kan Naomi een overzicht zien van de bestelling van haar ticket. Naomi drukt het ticket op voorhand al af. Naomi weet echter dat ze soms nogal vergeetachtig kan zijn, en dus kan vergeten waar ze het ticket achtergelaten heeft. Naomi ziet op de pagina dat er een optie is om het ticket doorgestuurd te krijgen via email. Op deze manier kan ze het ticket opnieuw afdrukken indien ze het origineel verliest.</p>
 
-<p>Deze optie biedt de mogelijkheid aan om het museum kort te bezoeken, maar dan van thuis uit. 
-Je kan digitaal enkele zalen doorlopen en enkele werken bekijken. 
-Bij deze mogelijkheid komt ook een andere optie kijken. Je kan bovenop het digitale bezoek kiezen voor een aanvullende rondleiding. Naomi klikt deze optie aan. Onmiddelijk krijgt ze een melding. Naomi kan kiezen voor een vocale rondleiding of een tekstuele rondleiding. 
+<p>Naomi klikt deze optie aan, en ontvangt automatisch in haar inbox een digitale versie van het ticket.Naomi is van aard zeer nieuwsgierig, en kan dus niet wachten tot het museum bezoek. Ze wil graag op voorhand al meer te weten komen over het museum, en klikt daarom de optie ‘terug naar homepage’ aan op de huidige pagina van de website. Vanaf de homepage ziet Naomi de optie ‘digitaal bezoeken’ staan. Naomi is benieuwd naar wat deze optie inhoudt en klikt daarom op de link.Deze optie biedt de mogelijkheid aan om het museum kort te bezoeken, maar dan van thuis uit. Je kan digitaal enkele zalen doorlopen en enkele werken bekijken. </p>
+
+<p>Bij deze mogelijkheid komt ook een andere optie kijken. Je kan bovenop het digitale bezoek kiezen voor een aanvullende rondleiding. Naomi klikt deze optie aan. Onmiddelijk krijgt ze een melding. Naomi kan kiezen voor een vocale rondleiding of een tekstuele rondleiding. 
 Naomi kiest voor de optie ‘tekstuele rondleiding’. Bij elke zaal die ze online aanklikt, kan ze enkele werken bekijken. Wanneer ze nu op  één van deze werken klikt, komt er bijkomende informatie op Naomi haar beeldscherm tevoorschijn. Naomi vind dit allemaal erg fascinerend en wil graag meer te weten komen over dit museum. Daarom gaat ze via de navigatie naar de pagina ‘informatie’. Op deze pagina vind Naomi een korte biografie terug van het museum. Ze komt te weten dat dit museum eigelijk een oude omgebouwde loods is. Dit doet haar denken aan haar vriend, die buiten een fan van graffitti kunst, 
 ook een grote fan is van architectuur.</p>
   
 
 <p>Naomi wil hem graag over dit museum vertellen. Naomi ziet de optie ‘deel deze pagina’ staan, onderaan de website. Naomi klikt deze optie en en ontvangt direct een melding. Via deze melding kan ze de keuze maken op welkesociale media site ze deze website graag zou delen. Ze heeft de keuze uit facebook, twitter, email, ...Naomi klikt de optie ‘facebook’ aan en wordt onmiddelijk doorverwezen naar de facebook pagina. Hier komt het bericht te voorschijn, met nog enkele bijkomende opties.
 Naomi deelt het bericht met haar vriend, die daarop volgt razend enthousiast alvast een ticket bestelt voor zichzelf.</p>
+</div>
 </div>
