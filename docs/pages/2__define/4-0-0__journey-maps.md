@@ -8,7 +8,6 @@ title: Journey Maps
 ---
 
 <div class="container">
-<div class="content">
 <h2 class="row class-12">Journey Map 1</h2>
 
 <div class="row">
@@ -63,5 +62,4 @@ ook een grote fan is van architectuur.
 
 Naomi wil hem graag over dit museum vertellen. Naomi ziet de optie ‘deel deze pagina’ staan, onderaan de website. Naomi klikt deze optie en en ontvangt direct een melding. Via deze melding kan ze de keuze maken op welkesociale media site ze deze website graag zou delen. Ze heeft de keuze uit facebook, twitter, email, ...Naomi klikt de optie ‘facebook’ aan en wordt onmiddelijk doorverwezen naar de facebook pagina. Hier komt het bericht te voorschijn, met nog enkele bijkomende opties.
 Naomi deelt het bericht met haar vriend, die daarop volgt razend enthousiast alvast een ticket bestelt voor zichzelf.
-</div>
 </div>
