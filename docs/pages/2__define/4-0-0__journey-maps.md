@@ -6,9 +6,16 @@ published: true
 # ─────────────────────
 title: Journey Maps
 ---
+<div class="container">
 
-<h2>Journey Map 1</h2>
+<div class="content">
+<h2 class="row class-12">Journey Map 1</h2>
+<div class="row">
+<div class="col-5">
+<img src="../../assets/Images/Journey_MAP.png" >
+</div>
 
+<div class="col-6">
 Karel is barman van beroep. Hij is getrouwd en heeft vorig jaar zijn 1ste kindje gekregen.
 Karel is een levensgenieter. Naast barman is Karel ook bezig met het brouwen van zijn eigen bier. Hij heeft een amateurstel aangekocht via 2dehands.be en is zo gestart met zijn hobby. Karel is niet uit op rijkdom. Hij wil de wereld, zichzelf, zijn talenten & interesses verkennen.Samen met zijn vrouw woont hij in een appartement in Centrum-Gent. Karel tekent veel in zijn vrije tijd en is bezig met kunst, zelf zou hij er graag een stuk beter in worden dus experimenteert hij met tal van tools, waaronder stiften, verf, kleurpotloden, bister, & graffiti. Zelf kan Karel niet zo goed omgaan met een spuitbus. Dus oefent hij met Stencils die hij uitsnijd & vervolgens spuit op een muur.
 
@@ -21,10 +28,11 @@ Hij opent de Tags App en begint met de rondleiding. Direct word Karel overweldig
 Op het einde van rondleiding komt hij de muur van Aerosol Kings tegen. Verbijsterd door hun layer-technieken & afwerking opent hij de app & vraagt hij meer info. Naast info over het ontstaan van de crew & hun betekenis in de scene vind hij een map met alle openbare kunstwerken van Aerosol Kings. Karel is enorm verbaasd over de variëteit die de app te bieden heeft.Na de volledige rondleiding geniet Karel van een Artisanale braadworst met een stella aan een van de vele foodtrucks. Na een rondleiding van 2 uur waarbij de app talloze keren is gebruikt om informatie te verschaffen plant Karel zijn terugweg naar huis, hij moet niet meer kijken voor een ticket aangezien dit een heen & terug reis is. Dus vertrekt Karel naar huis. 
 
 Eenmaal thuis aangekomen toont hij aan zijn vrouw de werken die hij daar heeft kunnen zien. Ook toont hij 1 van de aankomende evenementen in meatpack, Zijn vrouw is geïnteresseerd. Ze huren een babysit, en bestellen 2 tickets met treintickets richting Antwerpen voor aankomende zaterdag. Karel is overweldigd door zijn bezoek & heeft heel veel bij geleerd over zowel de historie als diversiteit van de Belgische graffitiscene, informatie die hij zonder de app moeilijk had kunnen bemachtigen. De app heeft het museumbezoek enorm ondersteund & maakt het interactiever.
+</div>
+</div>
 
 
-
-<h2>Journey Map 2</h2>
+<h2 class="row col-12">Journey Map 2</h2>
 
 Naomi is een verkoopsmedewerker in de ‘montana shop’ te brussel. 
 Elk jaar organiseren haar oversten enkele activiteiten met het gehele bedrijf. 
@@ -71,11 +79,5 @@ sociale media site ze deze website graag zou delen. Ze heeft de keuze uit facebo
 Naomi klikt de optie ‘facebook’ aan en wordt onmiddelijk doorverwezen naar de facebook pagina. 
 Hier komt het bericht te voorschijn, met nog enkele bijkomende opties.
 Naomi deelt het bericht met haar vriend, die daarop volgt razend enthousiast alvast een ticket bestelt voor zichzelf.
-
-
-
-{%- assign total = 0.0 %}
-{%- for item in include.timesheet %}
-{%- assign total = total | plus: item.time %}
-{%- endfor %}
-{:.table.table--primary}
+</div>
+</div>
