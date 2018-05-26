@@ -6,10 +6,11 @@ published: true
 # ─────────────────────
 title: Journey Maps
 ---
-<div class="container">
 
+<div class="container">
 <div class="content">
 <h2 class="row class-12">Journey Map 1</h2>
+
 <div class="row">
 <div class="col-5">
 <img src="../../assets/Images/Journey_MAP.png" width="100%" >
