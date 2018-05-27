@@ -7,7 +7,7 @@ published: true
 title: Wireflow
 ---
 <div class="container">
-<div class"content">
+<div class="content">
 <div class='row'>
 <div class="col-12">
 <h2>Smartwatch Wireflow</h2>
