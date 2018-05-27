@@ -15,5 +15,3 @@ title: Wireflow
 </div>
 </div>
 </div>
-
-![alt text](https://github.com/gdmgent-1718-nmd3/1718-nmd3-project-dhaenens_boone/blob/master/docs/assets/Images/SW_Wire.png)
