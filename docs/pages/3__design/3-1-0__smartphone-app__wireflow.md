@@ -8,6 +8,6 @@ title: Wireflow
 ---
 
 <h2>Wireflow SmartWatch</h2>
-<img src="../../assets/Images/SP_wire1.png" width="100%">
+<img src="../../../assets/Images/SP_wire1.png" width="100%">
 
 
