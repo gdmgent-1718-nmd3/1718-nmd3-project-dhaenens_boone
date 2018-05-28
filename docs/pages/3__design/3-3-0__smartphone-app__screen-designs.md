@@ -10,7 +10,7 @@ title: Screen Designs
 <div class="row">
 <div class="col-12">
 <div class="content">
-<img src="../../../assets/Images/SM_screen1.png" style="width:70%">
+<img src="../../../assets/Images/SM_screen1.png">
 </div>
 </div>
 </div>

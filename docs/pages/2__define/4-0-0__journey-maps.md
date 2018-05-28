@@ -42,6 +42,12 @@ Karel is een levensgenieter. Naast barman is Karel ook bezig met het brouwen van
 </div>
 </div>
 
+<div class="row">
+<div class="col-12">
+<img src ="../../assets/Images/Persona_2.png" width="100%" >
+</div>
+</div>
+
 
 
 <h2 class="row col-12">Journey Map 2</h2>
@@ -79,5 +85,11 @@ ook een grote fan is van architectuur.</p>
 
 <p>Naomi wil hem graag over dit museum vertellen. Naomi ziet de optie ‘deel deze pagina’ staan, onderaan de website. Naomi klikt deze optie en en ontvangt direct een melding. Via deze melding kan ze de keuze maken op welkesociale media site ze deze website graag zou delen. Ze heeft de keuze uit facebook, twitter, email, ...Naomi klikt de optie ‘facebook’ aan en wordt onmiddelijk doorverwezen naar de facebook pagina. Hier komt het bericht te voorschijn, met nog enkele bijkomende opties.
 Naomi deelt het bericht met haar vriend, die daarop volgt razend enthousiast alvast een ticket bestelt voor zichzelf.</p>
+</div>
+</div>
+
+<div class="row">
+<div class="col-12">
+<img src ="../../assets/Images/Persona_1.png" width="100%" >
 </div>
 </div>
