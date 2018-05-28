@@ -43,7 +43,7 @@ Karel is een levensgenieter. Naast barman is Karel ook bezig met het brouwen van
 </div>
 
 <div class="row">
-<div class="col-12">
+<div class="col-12 content">
 <img src ="../../assets/Images/Persona_2.png" width="100%" >
 </div>
 </div>
@@ -89,7 +89,7 @@ Naomi deelt het bericht met haar vriend, die daarop volgt razend enthousiast alv
 </div>
 
 <div class="row">
-<div class="col-12">
+<div class="col-12 content">
 <img src ="../../assets/Images/Persona_1.png" width="100%" >
 </div>
 </div>
