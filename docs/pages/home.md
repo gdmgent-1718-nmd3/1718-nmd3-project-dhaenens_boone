@@ -14,4 +14,4 @@ Wie zijn we?
  - Thibaut Dhaenens, 2CMO-GD
 
 
-<img src= "../../assets/Images/30848532_10216410355040630_903861907627236590_o.jpg" >
+![alt text](https://github.com/gdmgent-1718-nmd3/1718-nmd3-project-dhaenens_boone/blob/master/docs/assets/17760215_10212767703250254_1504643583277174030_n.jpg)
