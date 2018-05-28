@@ -7,4 +7,4 @@ published: true
 title: Screen Designs
 ---
 <h2>Visual Design SmartWatch</h2>
-<img src="../../../assets/Images/SW_Screen2.png">
+<img src="../../../assets/Images/SW_Screen2.png" style="width:100%">
