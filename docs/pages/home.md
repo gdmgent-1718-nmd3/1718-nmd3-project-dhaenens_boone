@@ -13,5 +13,4 @@ Wie zijn we?
  - Steffi Boone, 2CMO-GD
  - Thibaut Dhaenens, 2CMO-GD
 
-
-![alt text](https://github.com/gdmgent-1718-nmd3/1718-nmd3-project-dhaenens_boone/blob/master/docs/assets/17760215_10212767703250254_1504643583277174030_n.jpg)
+<img src=" 1718-nmd3-project-dhaenens_boone/docs/assets/Images/17760215_10212767703250254_1504643583277174030_n.jpg ">
