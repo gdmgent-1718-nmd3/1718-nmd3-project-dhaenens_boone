@@ -7,7 +7,7 @@ published: true
 title:
 ---
 
-<h1>Typography</h1>
+<h1>Formulieren</h1>
 <div class="container">
 
 
