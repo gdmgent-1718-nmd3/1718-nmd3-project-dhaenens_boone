@@ -14,6 +14,10 @@ title: Analyse
 |   Om nieuwe kunstenaars en/of kunststijlen te **ontdekken**    |    Het museum is moeilijk bereikbaar   |
 |   Mensen leren kennen met **gemeenschappelijke interesses**    |    De persoon is **niet mobiel**   |
 
+
+
+
+
 {%- assign total = 0.0 %}
 {%- for item in include.timesheet %}
 {%- assign total = total | plus: item.time %}
