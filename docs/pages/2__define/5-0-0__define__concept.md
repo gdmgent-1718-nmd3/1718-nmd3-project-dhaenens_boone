@@ -19,16 +19,14 @@ Met de Tags applicatie wordt een visuele ervaring gecreeërd voor de bezoeker. D
 * Informatie pagina over de graffitiwerken, die zich in het museum bevinden.
 * Gevorderde graffitiartiesten kunnen werken inzenden & eventueel een plaats krijgen in het Tags museum!
 * 'Lokale Gids' die via tekst (pop ups) extra uitleg verschaft over de werken & artiesten.
-
-  Aan de hand van een barcode op het werk, die gescand kan worden.
-  
+  * Aan de hand van een barcode op het werk, die gescand kan worden.
 * Mogelijkheid om te connecteren met de desbetreffende Artiest (Facebook, Twitter, Instagram, …)
 * Mogelijkheid om andere werken van de artiest te zoeken.
-* Online Store: Mogelijkheid om werken van de artiesten op canvas te kopen, 
-        * Dit kan via het museum (fysieke verkoop) of via de app.
+* Online Store: Mogelijkheid om werken van de artiesten op canvas te kopen.
+  * Dit kan via het museum (fysieke verkoop) of via de app.
 * Informatie Pagina over het museum zelf.
 * Online tour: Een virtuele zaal met enkele werken die de bezoeker kan bekijken.
-        * Werkt samen met de 'Lokale Gids'.
+  * Werkt samen met de 'Lokale Gids'.
 * Kalender met alle toekomstige evenementen.
 
 1.3 Smartwatch Features
