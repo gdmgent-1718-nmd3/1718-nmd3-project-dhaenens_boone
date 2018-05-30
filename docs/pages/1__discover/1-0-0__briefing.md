@@ -11,11 +11,15 @@ Opdracht
 --------
 Een visuele ervaring creëren voor de museum bezoeker, aan de hand van een smartwatch en smartphone applicatie.
 
+
+
 Teamleden
 ---------
 
  - Steffi Boone
  - Thibaut Dhaenens
+
+ 
 
 <img src="../../assets/Images/30848532_10216410355040630_903861907627236590_o.jpg" class="content rounded img col-4">
 <img src="../../assets/Images/17760215_10212767703250254_1504643583277174030_n.jpg" class="content rounded col-4">
@@ -33,7 +37,7 @@ Tags Museum Antwerpen
 
   Elk krijgt een stuk muur waar zij hun werk aanbrengen.
 
-  
+
 
 <img src="../../assets/Images/25329261948_bd24e9bf34_b.jpg" class="col-4">
 <img src="../../assets/Images/sa.conv.66f5896a981162d29ad1532bb1c59a99.2048.jpg" class="col-4" height="500px">
