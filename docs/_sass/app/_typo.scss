@@ -17,8 +17,9 @@ h2{
     text-transform: uppercase;
     letter-spacing: 2px;
     font-family: Bebas Neue;
-    color:darkgray;
+    color:grayscale($color: #000000b2);
 }
+
 p, ul{
     font-family: Avenir; 
     font-weight: 300;
