@@ -9,7 +9,9 @@ title: Gebruikerstests
 
 
 <div class="container">
+<div class="row">
 <h2 class="col-12">Paper Prototype</h2>
+</div>
 
 <div class="row">
 <img src="../../../assets/Images/Proto2.jpg" class='col-5'>
