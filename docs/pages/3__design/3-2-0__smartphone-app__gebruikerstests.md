@@ -30,7 +30,7 @@ title: Gebruikerstests
 </ul>
 </div>
 
-<div class="col-10">
+<div class="col-5">
 <p>Negatieve bevindingen</p>
 <ul>
 <li> Het lettertype is soms te klein en niet leesbaar genoeg.</li>
