@@ -21,14 +21,16 @@ title: Gebruikerstests
 
 <div class="row">
 <h4 class="col-12">Gebruikerstest 1 - Kim Steurbaut</h4>
-<div class="col-10">
+<div class="col-5">
 <p>Positieve bevindingen</p>
 <ul>
 <li> Het ontwerp oogt leuk.</li>
 <li> Het ontwerp past bij het thema.</li>
 <li> Leuk kleurgebruik/ kleurencombinatie.</li>
 </ul>
+</div>
 
+<div class="col-10">
 <p>Negatieve bevindingen</p>
 <ul>
 <li> Het lettertype is soms te klein en niet leesbaar genoeg.</li>
@@ -38,7 +40,7 @@ title: Gebruikerstests
 <li> Titels nemen teveel ruimte in op de pagina's.</li>
 <li> Je kan als bezoeker geen item bekijken op de 'shop' pagina.</li>
 </ul>
-
+</div>
 
 
 </div>
