@@ -33,6 +33,8 @@ Tags Museum Antwerpen
 
   Elk krijgt een stuk muur waar zij hun werk aanbrengen.
 
+  
+
 <img src="../../assets/Images/25329261948_bd24e9bf34_b.jpg" class="col-4">
 <img src="../../assets/Images/sa.conv.66f5896a981162d29ad1532bb1c59a99.2048.jpg" class="col-4" height="500px">
 
