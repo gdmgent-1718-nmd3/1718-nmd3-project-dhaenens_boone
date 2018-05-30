@@ -17,8 +17,8 @@ title: Gebruikerstests
 
 <img src="../../assets/Images/33988215_10216506665161965_7722462841587892224_n.jpg" class="col-4">
 
-Ons prototype werd uitgetest door Kim, een vriendin van Steffi. 
-Haar profiel sluit ongeveer aan bij het profiel van ons fictief personage 'Naomi Claeys'.
+<p>Ons prototype werd uitgetest door Kim, een vriendin van Steffi. 
+Haar profiel sluit ongeveer aan bij het profiel van ons fictief personage 'Naomi Claeys'.</p>
 
 
 
