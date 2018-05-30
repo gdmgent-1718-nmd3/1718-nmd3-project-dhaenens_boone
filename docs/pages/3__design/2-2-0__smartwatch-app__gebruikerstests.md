@@ -11,6 +11,7 @@ Paper Prototype
 ---------------
 
 <img src="../../assets/Images/Proto2.jpg">
+<img src="../../assets/Images/Proto.jpg">
 
 Prototype
 ---------
