@@ -28,6 +28,8 @@ Tags Museum Antwerpen
 - De expositie gaat over 20 Jaar Graffiti & Street-Art in & rond Antwerpen.
 - Het museum begeeft zich aan de dokken van antwerpen.
   Naast het museum kan je er ook feesten, genieten van de vele foodtrucks, of op zoek gaan naar de nieuwste trends in de modewereld.
-- 40 Artiesten van Rond & In Antwerpen (4 uit Gent)
-  Elk krijgt een stuk muur waar zij hun werk aanbrengen
+- 40 Artiesten van Rond & In Antwerpen (4 uit Gent).
+  Elk krijgt een stuk muur waar zij hun werk aanbrengen.
+
+<img src="../../assets/Images/25329261948_bd24e9bf34_b.jpg" class="col-4">
 </div>
