@@ -6,7 +6,7 @@ published: true
 # ─────────────────────
 title: Briefing
 ---
-
+<div class="content">
 Opdracht
 --------
 Een visuele ervaring creëren voor de museum bezoeker, aan de hand van een smartwatch en smartphone applicatie.
@@ -30,4 +30,4 @@ Tags Museum Antwerpen
   Naast het museum kan je er ook feesten, genieten van de vele foodtrucks, of op zoek gaan naar de nieuwste trends in de modewereld.
 - 40 Artiesten van Rond & In Antwerpen (4 uit Gent)
   Elk krijgt een stuk muur waar zij hun werk aanbrengen
-
+</div>
