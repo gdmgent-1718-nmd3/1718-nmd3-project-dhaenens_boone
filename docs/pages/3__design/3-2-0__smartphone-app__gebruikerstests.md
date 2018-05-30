@@ -21,7 +21,7 @@ title: Gebruikerstests
 
 <div class="row">
 <h4 class="col-12">Gebruikerstest 1 - Kim Steurbaut</h4>
-<div class="col-5">
+<div class="col-10">
 <p>Positieve bevindingen</p>
 <ul>
 <li> Het ontwerp oogt leuk.</li>
