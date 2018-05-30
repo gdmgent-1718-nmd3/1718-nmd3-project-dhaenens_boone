@@ -28,8 +28,8 @@ title: Gebruikerstests
 Haar profiel sluit ongeveer aan bij het profiel van ons fictief personage 'Naomi Claeys'.</p>
 <p>Positieve bevindingen:</p>
 <ul>
-<li> Leuke Iconen </li>
-<li> Ontwerp oogt duidelijk en overzichtelijk</li>
+<li> Leuke Iconen. </li>
+<li> Ontwerp oogt duidelijk en overzichtelijk.</li>
 </ul>
 
 <p>Negatieve bevindingen:</p>
