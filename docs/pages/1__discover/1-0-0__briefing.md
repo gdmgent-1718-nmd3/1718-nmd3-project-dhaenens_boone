@@ -17,8 +17,8 @@ Teamleden
  - Steffi Boone
  - Thibaut Dhaenens
 
-<img src="../../assets/Images/30848532_10216410355040630_903861907627236590_o.jpg" class="col-4" width="25%">
-<img src="../../assets/Images/17760215_10212767703250254_1504643583277174030_n.jpg" width="25%">
+<img src="../../assets/Images/30848532_10216410355040630_903861907627236590_o.jpg" class="rounded img col-4">
+<img src="../../assets/Images/17760215_10212767703250254_1504643583277174030_n.jpg" class="rounded img col-4">
 
 Tags Museum Antwerpen
 --------------
