@@ -16,10 +16,11 @@ title: Gebruikerstests
 <img src="../../../assets/Images/Proto.jpg" class='col-5'>
 </div>
 
-<h4 class="row col-12">Gebruikerstest 1 - Kim Steurbaut</h4>
+
 
 <div class="row">
 <div class="col-12">
+<h4 class="col-12">Gebruikerstest 1 - Kim Steurbaut</h4>
 <img src="../../assets/Images/33988215_10216506665161965_7722462841587892224_n.jpg" class="col-4">
 
 <p class="col-6">Ons prototype werd uitgetest door Kim, een vriendin van Steffi. 
