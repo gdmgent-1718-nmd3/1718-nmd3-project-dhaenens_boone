@@ -6,6 +6,7 @@ published: true
 # ─────────────────────
 title: Styletiles
 ---
+
 <div classs="styletile">
 <h2>Gekozen</h2>
 <img src="../../assets/Images/StyleTile3.png" width="100%">
