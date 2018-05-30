@@ -16,8 +16,8 @@ Een visuele ervaring creëren voor de museum bezoeker, aan de hand van een smart
 Teamleden
 ---------
 
- - Steffi Boone
  - Thibaut Dhaenens
+ - Steffi Boone
 
 
 
