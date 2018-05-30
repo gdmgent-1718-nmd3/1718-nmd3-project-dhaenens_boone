@@ -83,7 +83,7 @@ title: Technische Analyse
 </div>
 </div>
 
-<img src="../../assets/Images/IphoneX_knoppen.png">
+<img src="../../assets/Images/IphoneX_knoppen.png" class="col-4">
 </div>
 </div>
 
