@@ -7,8 +7,8 @@ published: true
 title: Gebruikerstests
 ---
 
-Paper Prototype
----
+<h1 class="col-12">Paper Prototype</h1>
+
 
 <img src="../../../assets/Images/Proto2.jpg" class='col-5'>
 <img src="../../../assets/Images/Proto.jpg" class='col-5'>
