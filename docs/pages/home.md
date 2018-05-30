@@ -1,7 +1,7 @@
 ---
 layout   : default
 permalink: home
-
+publised: true
 # Custom Page Variables
 # ─────────────────────
 title: Opdracht NMD-III
