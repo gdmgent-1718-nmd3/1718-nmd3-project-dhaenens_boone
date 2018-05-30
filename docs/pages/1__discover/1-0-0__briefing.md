@@ -38,6 +38,6 @@ Tags Museum Antwerpen
 
 
 
-<img src="../../assets/Images/25329261948_bd24e9bf34_b.jpg" class="col-6">
-<img src="..../assets/Images/05df4c73f570c3243a685c920fa35f7d-802x802.jpg" class="col-6">
+<img src="../../assets/Images/25329261948_bd24e9bf34_b.jpg" class="tag col-6">
+<img src="..../assets/Images/05df4c73f570c3243a685c920fa35f7d-802x802.jpg" class="tag col-6">
 
