@@ -7,4 +7,4 @@ published: true
 title: Screen Designs
 ---
 
-<img src="../../assets/Images/Wireflow_smartphone.png ">
+<img src="../../../assets/Images/Wireflow_smartphone.png">
