@@ -15,7 +15,7 @@ title: Gebruikerstests
 
 
 <div class="row">
-<img src="../../../assets/Images/Proto2.jpg" class='col-5'>
+<img src="../../assets/Images/34102330_10216507351259117_7936310822328860672_n.jpg" class="col-5" >
 <img src="../../../assets/Images/Proto.jpg" class='col-5'>
 </div>
 
