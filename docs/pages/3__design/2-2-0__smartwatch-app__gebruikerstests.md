@@ -13,8 +13,8 @@ Paper Prototype
 <img src="../../../assets/Images/Proto2.jpg" class='col-5'>
 <img src="../../../assets/Images/Proto.jpg" class='col-5'>
 
-<h3>Gebruikerstest 1</h3>
-<h3>Gebruikerstest 2</h3>
+<h5>Gebruikerstest 1</h5>
+<h5>Gebruikerstest 2</h5>
 
 
 
