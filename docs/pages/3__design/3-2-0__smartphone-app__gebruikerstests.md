@@ -45,15 +45,21 @@ title: Gebruikerstests
 <li> Leuke ideeën die bruikbaar zijn voor het museum.</li>
 </ul>
 </div>
+</div>
 
 
-
+<div class="row">
 <div class="col-10">
-<p> Na deze test hebben we onze screendesigns aangepast naargelang de opmerkingen van Kim.
-De definitieve screendesigns kan je terugvinden op de volgende pagina.</p>
+<p> We hebben de opmerkingen van Kim in acht genomen, en hebben onze huidige Screendesigns aangepast.</p>
+<p> Bekijk hier onze eerste versie van het prototype</p>
+<a href="https://gdmgent-1718-nmd3.github.io/1718-nmd3-project-dhaenens_boone/#">
 
+<p> Bekijk hier de definitieve versie van het prototype</p>
 
 </div>
+</div>
+
+
 </div>
 
 
