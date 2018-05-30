@@ -10,8 +10,8 @@ title: Gebruikerstests
 Paper Prototype
 ---
 
-<img src="../../../assets/Images/Proto2.jpg" class='col-6'>
-<img src="../../../assets/Images/Proto.jpg" class='col-4'>
+<img src="../../../assets/Images/Proto2.jpg" class='col-5'>
+<img src="../../../assets/Images/Proto.jpg" class='col-5'>
 
 
 Prototype
