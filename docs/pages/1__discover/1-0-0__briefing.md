@@ -6,7 +6,7 @@ published: true
 # ─────────────────────
 title: Briefing
 ---
-<div class="content">
+
 Opdracht
 --------
 Een visuele ervaring creëren voor de museum bezoeker, aan de hand van een smartwatch en smartphone applicatie.
@@ -32,4 +32,4 @@ Tags Museum Antwerpen
   Elk krijgt een stuk muur waar zij hun werk aanbrengen.
 
 <img src="../../assets/Images/25329261948_bd24e9bf34_b.jpg" class="col-4">
-</div>
+
