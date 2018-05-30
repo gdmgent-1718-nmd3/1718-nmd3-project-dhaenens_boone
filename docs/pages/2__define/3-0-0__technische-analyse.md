@@ -83,7 +83,7 @@ title: Technische Analyse
 </div>
 </div>
 
-<img src=" 1718-nmd3-project-dhaenens_boone/docs/assets/Images/IphoneX_knoppen.png ">
+<img src="../../assets/Images/IphoneX_knoppen.png">
 </div>
 </div>
 
