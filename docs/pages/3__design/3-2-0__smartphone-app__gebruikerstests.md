@@ -52,7 +52,9 @@ title: Gebruikerstests
 <div class="col-10">
 <p> We hebben de opmerkingen van Kim in acht genomen, en hebben onze huidige Screendesigns aangepast.</p>
 <p> Bekijk hier onze eerste versie van het prototype</p>
-<a href="https://gdmgent-1718-nmd3.github.io/1718-nmd3-project-dhaenens_boone/#">
+<a href="https://xd.adobe.com/view/087750f4-95f8-4782-630f-3f020fb99368-7e46/">
+
+[I'm an inline-style link](https://xd.adobe.com/view/087750f4-95f8-4782-630f-3f020fb99368-7e46/)
 
 <p> Bekijk hier de definitieve versie van het prototype</p>
 
