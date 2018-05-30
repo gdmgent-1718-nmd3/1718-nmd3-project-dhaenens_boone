@@ -8,7 +8,7 @@ title: Briefing
 ---
 
 Teamleden
----------
+---
 
  - Thibaut Dhaenens, 2CMO-GD
  - Steffi Boone, 2CMO-GD
@@ -19,12 +19,12 @@ Teamleden
 
 
 Opdracht
---------
+---
 Een visuele ervaring creëren voor de museum bezoeker, aan de hand van een smartwatch en smartphone applicatie.
 
 
 Tags Museum Antwerpen
---------------
+---
 
 
 - Een industrieel gebouw met een oppervlakte van 5000m².
