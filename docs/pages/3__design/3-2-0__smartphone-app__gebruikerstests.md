@@ -7,18 +7,41 @@ published: true
 title: Gebruikerstests
 ---
 
-Digital Prototype
------------------
+
+<div class="container">
+<div class="row">
+<h2 class="col-12">Digitaal Prototype</h2>
+</div>
 
 
-Positieve bevindingen:
+<div class="row">
+<img src="../../../assets/Images/Proto2.jpg" class='col-5'>
+<img src="../../../assets/Images/Proto.jpg" class='col-5'>
+</div>
 
-- Ontwerp oogt leuk en past bij het thema.
-- Leuk kleurgebruik.
+<div class="row">
+<h4 class="col-12">Gebruikerstest 1 - Kim Steurbaut</h4>
+<div class="col-5">
+<p>Positieve bevindingen</p>
+<ul>
+<li> Het ontwerp oogt leuk.</li>
+<li> Het ontwerp past bij het thema.</li>
+<li> Leuk kleurgebruik/ kleurencombinatie.</li>
+</ul>
 
-Negatieve bevindingen:
+<p>Negatieve bevindingen</p>
+<ul>
+<li> Het lettertype is soms te klein en niet leesbaar genoeg.</li>
+<li> Er is niet voldoende uitleg bij de workshop tutorials.</li>
+<li> Sommige iconen zijn onduidelijk. </li>
+<li> 'Rounded buttons' passen niet echt bij het ontwerp.</li>
+<li> Titels nemen teveel ruimte in op de pagina's.</li>
+<li> Je kan als bezoeker geen item bekijken op de 'shop' pagina.</li>
+</ul>
 
-- Lettertype is soms niet duidelijk genoeg.
-- Onvoldoende uitleg bij de workshop-video tutorials.
-- Afbeeldingen zijn op veel pagina's niet groot genoeg.
-- Geen mogelijkheid om Items uit de Shop uitvergroot te bekijken.
+
+
+</div>
+</div>
+
+
