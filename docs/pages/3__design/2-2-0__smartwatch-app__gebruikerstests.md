@@ -10,7 +10,7 @@ title: Gebruikerstests
 Paper Prototype
 ---------------
 
-<img src="../../assets/Images/Proto2.jpg" class="tag col-5">
+<img src="../../assets/Images/Proto2.jpg">
 
 Prototype
 ---------
