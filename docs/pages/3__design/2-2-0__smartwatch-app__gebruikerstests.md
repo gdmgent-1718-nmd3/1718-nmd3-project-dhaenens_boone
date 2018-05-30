@@ -15,6 +15,12 @@ title: Gebruikerstests
 
 <h5 class="col-5">Gebruikerstest 1</h5>
 
+<img src=" 1718-nmd3-project-dhaenens_boone/docs/assets/Images/33988215_10216506665161965_7722462841587892224_n.jpg ">
+
+Ons prototype werd uitgetest door Kim, een vriendin van Steffi. 
+Haar profiel sluit ongeveer aan bij het profiel van ons fictief personage 'Naomi Claeys'.
+
+
 
 <h5 class="col-5">Gebruikerstest 2</h5>
 
