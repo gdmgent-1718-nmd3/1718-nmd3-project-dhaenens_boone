@@ -22,6 +22,9 @@ Teamleden
 Tags Museum Antwerpen
 --------------
 
-- Gelokaliseerd in Antwerpen.
+
 - Een industrieel gebouw met een oppervlakte van 5000m².
 - De expositie gaat over 20 Jaar Graffiti & Street-Art in & rond Antwerpen.
+- Het museum begeeft zich aan de dokken van antwerpen.
+  Naast het museum kan je er ook feesten, genieten van de vele foodtrucks, of op zoek gaan naar de nieuwste trends in de modewereld.
+
