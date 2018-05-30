@@ -7,7 +7,7 @@ published: true
 title: Gebruikerstests
 ---
 
-<h2 class="col-12">Paper Prototype</h1>
+<h2 class="col-12">Paper Prototype</h2>
 
 
 <img src="../../../assets/Images/Proto2.jpg" class='col-5'>
@@ -20,5 +20,5 @@ title: Gebruikerstests
 
 
 
-<h2 class="col-12">Prototype</h1>
+<h2 class="col-12">Prototype</h2>
 <a href="https://gdmgent-1718-nmd3.github.io/1718-nmd3-project-dhaenens_boone/#">
