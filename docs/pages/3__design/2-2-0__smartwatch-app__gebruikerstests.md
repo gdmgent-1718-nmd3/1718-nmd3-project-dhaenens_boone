@@ -26,10 +26,16 @@ title: Gebruikerstests
 <div class="col-5">
 <p>Ons prototype werd uitgetest door Kim, een vriendin van Steffi. 
 Haar profiel sluit ongeveer aan bij het profiel van ons fictief personage 'Naomi Claeys'.</p>
-<p>Bevindingen:</p>
+<p>Positieve bevindingen:</p>
 <ul>
 <li> Leuke Iconen </li>
 <li> Ontwerp oogt duidelijk en overzichtelijk</li>
+</ul>
+
+<p>Negatieve bevindingen:</p>
+<ul>
+<li> Ontwerp oogt soms een beetje 'saai'. </li>
+<li> Er is geen kleur in het ontwerp. </li>
 </ul>
 
 </div>
