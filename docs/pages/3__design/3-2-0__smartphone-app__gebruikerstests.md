@@ -42,6 +42,10 @@ title: Gebruikerstests
 </ul>
 </div>
 
+<div class="col-10">
+<p> Na deze test hebben we onze screendesigns aangepast naargelang de opmerkingen van Kim.
+De definitieve screendesigns kan je terugvinden op de volgende pagina.</p>
+
 
 </div>
 </div>
