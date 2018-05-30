@@ -23,14 +23,16 @@ title: Gebruikerstests
 <div class="row">
 <h4 class="col-12">Gebruikerstest 1 - Kim Steurbaut</h4>
 <img src="../../../assets/Images/33988215_10216506665161965_7722462841587892224_n.jpg" class="col-5">
-<p class="col-5">Ons prototype werd uitgetest door Kim, een vriendin van Steffi. 
+<div class="col-5">
+<p>Ons prototype werd uitgetest door Kim, een vriendin van Steffi. 
 Haar profiel sluit ongeveer aan bij het profiel van ons fictief personage 'Naomi Claeys'.</p>
-<p class="col-5"> Bevindingen</p>
-
-<ul class="col-5">
+<p>Bevindingen:</p>
+<ul>
 <li> Leuke Iconen </li>
 <li> Ontwerp oogt duidelijk en overzichtelijk</li>
 </ul>
+
+</div>
 </div>
 
 
