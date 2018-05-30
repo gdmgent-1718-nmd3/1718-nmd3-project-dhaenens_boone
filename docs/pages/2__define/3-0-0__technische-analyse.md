@@ -80,7 +80,7 @@ title: Technische Analyse
 </ul>
 </div>
 
-<img src="../../assets/Images/IphoneX_knoppen.png" class="col-8">
+<img src="../../assets/Images/IphoneX_knoppen.png" class="col-7">
 </div>
 </div>
 
