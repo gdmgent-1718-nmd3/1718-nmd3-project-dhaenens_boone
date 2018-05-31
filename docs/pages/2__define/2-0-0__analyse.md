@@ -7,7 +7,7 @@ published: true
 title: Analyse
 ---
 
-Beweegredenen om een museum te bezoeken
+Beweegredenen voor een museum bezoek
 ---
 
 |   PRO   |   CONTRA   |
