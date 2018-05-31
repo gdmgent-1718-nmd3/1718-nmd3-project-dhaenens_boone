@@ -8,7 +8,7 @@ title:
 ---
 
 <div class="container">
-<h2>Knoppen</h2>
+<h2 class="row class-12">Knoppen</h2>
 <img src="../../assets/Images/Buttons.png">
 
 
