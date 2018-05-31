@@ -6,6 +6,10 @@ published: true
 # ─────────────────────
 title: Analyse
 ---
+
+Beweegredenen om een museum te bezoeken
+---
+
 |   PRO   |   CONTRA   |
 |   ---   |   ---   |
 |   Uit **interesse** in een bepaald onderwerp en/of kunstenaar     |   Lange **wachttijden**   |
