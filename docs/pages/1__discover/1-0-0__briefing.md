@@ -11,10 +11,8 @@ Opdracht
 ---
 Een visuele ervaring creëren voor de museum bezoeker, aan de hand van een smartwatch en smartphone applicatie.
 
-
 Tags Museum Antwerpen
 ---
-
 
 - Een industrieel gebouw met een oppervlakte van 5000m².
 - De expositie gaat over 20 Jaar Graffiti & Street-Art in & rond Antwerpen.
