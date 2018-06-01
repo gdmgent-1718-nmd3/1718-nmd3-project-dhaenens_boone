@@ -13,16 +13,16 @@ title: Gebruikerstests
 <h2 class="col-12">Paper Prototype</h2>
 </div>
 
-<div class="row">
-<img src="../../../assets/Images/Proto2.jpg" class='col-5'>
-<img src="../../../assets/Images/Proto.jpg" class='col-5'>
-</div>
+
+<img src="../../../assets/Images/Proto2.jpg" style="width:50% height:auto" >
+<img src="../../../assets/Images/Proto.jpg" style="width:50% height:auto">
+
 
 
 
 <div class="row">
 <h4 class="col-12">Gebruikerstest 1 - Kim Steurbaut</h4>
-<img src="../../../assets/Images/33988215_10216506665161965_7722462841587892224_n.jpg" class="col-5">
+<img src="../../../assets/Images/33988215_10216506665161965_7722462841587892224_n.jpg" style="width:50% height:auto"">
 <div class="col-5">
 <p>Ons prototype werd uitgetest door Kim, een vriendin van Steffi. 
 Haar profiel sluit ongeveer aan bij het profiel van ons fictief personage 'Naomi Claeys'.</p>
