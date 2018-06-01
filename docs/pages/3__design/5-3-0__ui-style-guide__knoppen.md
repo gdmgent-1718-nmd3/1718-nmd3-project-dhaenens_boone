@@ -9,7 +9,6 @@ title:
 
 <div class="container">
 <h1>Knoppen</h1>
-<img src="../../../assets/Images/Buttons.png" class="col-5">
 
 
 </div>
