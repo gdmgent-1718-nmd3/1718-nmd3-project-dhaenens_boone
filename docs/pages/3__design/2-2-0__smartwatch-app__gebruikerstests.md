@@ -14,8 +14,8 @@ title: Gebruikerstests
 </div>
 
 
-<img src="../../../assets/Images/Proto2.jpg" style="width:50% height:auto" >
-<img src="../../../assets/Images/Proto.jpg" style="width:50% height:auto">
+<img src="../../../assets/Images/Proto2.jpg" style="width:auto; height:20%;" >
+<img src="../../../assets/Images/Proto.jpg" style="width:auto; height:20%;">
 
 
 
