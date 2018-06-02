@@ -10,8 +10,9 @@ title:
 <div class="container">
 <h1>Knoppen</h1>
 
-
-<button>THIS IS A BUTTON</button>
+<div class="row">
+<div class="col-12">
+<button class="col-5">THIS IS A BUTTON</button>
 <button1>THIS IS A BUTTON</button1>
 
 </div>
