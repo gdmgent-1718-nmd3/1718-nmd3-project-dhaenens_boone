@@ -15,8 +15,8 @@ title: Gebruikerstests
 
 <div class="row">
 <div class="col-12">
-<img src="../../../assets/Images/Proto2.jpg" style="width:100%; height:20%;" >
-<img src="../../../assets/Images/Proto.jpg" style="width:100%; height:20%;">
+<img src="../../../assets/Images/Proto2.jpg" style="height:20%;" >
+<img src="../../../assets/Images/Proto.jpg" style="height:20%;">
 </div>
 </div>
 
