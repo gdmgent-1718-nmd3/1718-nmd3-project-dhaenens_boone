@@ -11,6 +11,6 @@ title:
 <h1>Knoppen</h1>
 
 
-<button>eerste knop</button>
+<button>EERSTE KNOP</button>
 
 </div>
