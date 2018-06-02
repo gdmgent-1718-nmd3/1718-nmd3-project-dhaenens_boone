@@ -9,6 +9,6 @@ title:
 
 <h1>Kleuren</h1>
 <div class="container">
-
+<img src="../../../assets/Images/kleur.jpg" class="col-12" style="width:100%;">
 
 </div>
