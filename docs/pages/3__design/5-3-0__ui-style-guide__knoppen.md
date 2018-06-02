@@ -13,6 +13,11 @@ title:
 <div class="row">
 <div class="col-12">
 <button class="col-5">THIS IS A BUTTON</button>
+</div>
+</div>
+
+<div class="row">
+<div class="col-12">
 <button1>THIS IS A BUTTON</button1>
 
 </div>
