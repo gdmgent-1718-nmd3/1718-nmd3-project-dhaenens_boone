@@ -8,18 +8,5 @@ title:
 ---
 
 <div class="container">
-<h1>Knoppen</h1>
-
-<div class="row">
-
-<div class="col-12 background">
-<div class="col-12">
-<button class="col-5">THIS IS A BUTTON</button>
-</div>
-
-
-<div class="row">
-<div class="col-12">
-<button class="button1 col-5">THIS IS A BUTTON</button>
-</div>
+<img src="..../assets/Images/Buttons.png" class="col-12" style="width:100%">
 </div>
