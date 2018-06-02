@@ -50,7 +50,15 @@ title: Gebruikerstests
 <h2 class="col-10">Digitaal Prototype</h2>
 <div class="col-10">
 <p> We hebben de opmerkingen van Kim in acht genomen, en hebben onze huidige Screendesigns aangepast.</p>
+</div>
+</div>
 
+<div class="row">
+<div class="col-12">
+<iframe width="375" height="667" src="../../assets/Images/DEFINITIEF.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+
+
+<iframe width="375" height="667" src="https://xd.adobe.com/embed/05d16162-2154-43f5-7f75-25cf28e1a2c3-73e0/" frameborder="0" allowfullscreen></iframe>
 </div>
 </div>
 
