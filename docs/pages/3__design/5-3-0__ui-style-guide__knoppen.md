@@ -11,11 +11,13 @@ title:
 <h1>Knoppen</h1>
 
 <div class="row">
-<div class="col-12 background">
+<div class="col-12">
+</div>
+<div class="background">
 
 <button class="col-5">THIS IS A BUTTON</button>
 </div>
-</div>
+
 
 <div class="row">
 <div class="col-12">
