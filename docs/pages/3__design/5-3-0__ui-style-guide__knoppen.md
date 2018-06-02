@@ -19,6 +19,6 @@ title:
 
 <div class="row">
 <div class="col-12">
-<button class="button1">THIS IS A BUTTON</button>
+<button class="button1 col-5">THIS IS A BUTTON</button>
 
 </div>
