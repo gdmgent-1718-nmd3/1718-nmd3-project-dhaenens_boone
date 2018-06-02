@@ -13,7 +13,7 @@ title:
 <div class="row">
 <div class="col-12">
 </div>
-<div class="background">
+<div class="col-12 background">
 
 <button class="col-5">THIS IS A BUTTON</button>
 </div>
