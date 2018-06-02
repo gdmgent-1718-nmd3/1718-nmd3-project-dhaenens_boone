@@ -7,4 +7,4 @@ published: true
 title: Screen Designs
 ---
 
-<img src="../../../assets/Images/Smartphone_screendesign.png" class="col-12"> 
+<img src="../../../assets/Images/Smartphone_screendesigns.png" class="col-12"> 
