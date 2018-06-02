@@ -45,6 +45,6 @@ Haar profiel sluit ongeveer aan bij het profiel van ons fictief personage 'Naomi
 
 <div class="row">
 <h2 class="col-12">Prototype</h2>
-<a href="https://gdmgent-1718-nmd3.github.io/1718-nmd3-project-dhaenens_boone/#">
+<a href="https://gdmgent-1718-nmd3.github.io/1718-nmd3-project-dhaenens_boone/#"></a>
 </div>
 </div>

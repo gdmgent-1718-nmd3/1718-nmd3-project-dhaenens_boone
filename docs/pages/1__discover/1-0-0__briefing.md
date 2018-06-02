@@ -29,7 +29,7 @@ Tags Museum Antwerpen
 - Het museum begeeft zich aan de dokken van antwerpen.
 - 40 Artiesten van Rond & In Antwerpen (4 uit Gent).
 - Naast het museum kan je er ook: 
-  * Evenemente bezoeken.
+  * Evenementen bezoeken.
   * Genieten van de vele foodtrucks.
   * Op zoek gaan naar de nieuwste trends in de modewereld.
 
