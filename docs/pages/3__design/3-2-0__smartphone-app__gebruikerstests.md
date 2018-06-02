@@ -14,7 +14,7 @@ title: Gebruikerstests
 </div>
 
 
-<img src="../../../assets/Images/34102330_10216507351259117_7936310822328860672_n.jpg" style="width:100%; height:20%;">
+<img src="../../../assets/Images/34102330_10216507351259117_7936310822328860672_n.jpg" class="col-5" width:"100%" height"20%">
 <img src="../../../assets/Images/Schermafbeelding 2018-05-30 om 21.39.00.png" style="width:100%; height:20%;">
 
 <div class="row">
