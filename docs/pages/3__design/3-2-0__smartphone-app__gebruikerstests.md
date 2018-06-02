@@ -48,11 +48,9 @@ title: Gebruikerstests
 
 <div class="row">
 <div class="col-10">
+<h2 class="col-10">Digitaal Prototype</h2>
 <p> We hebben de opmerkingen van Kim in acht genomen, en hebben onze huidige Screendesigns aangepast.</p>
-<p> Bekijk hier onze eerste versie van het prototype</p>
-
-<p> Bekijk hier de definitieve versie van het prototype</p>
-
+<a href="https://xd.adobe.com/view/05d16162-2154-43f5-7f75-25cf28e1a2c3-73e0/screen/48be359e-641b-4af9-9c48-1e3dd69a4e2c/2-Hoofdmenu"></a>
 </div>
 </div>
 
