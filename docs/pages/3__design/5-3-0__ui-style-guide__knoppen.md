@@ -8,5 +8,5 @@ title:
 ---
 
 <div class="container">
-<img src="../../assets/Images/Buttons.png" class="col-12" style="width:100%">
+<img src="../../../assets/Images/Buttons.png" class="col-12" style="width:100%">
 </div>
