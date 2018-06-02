@@ -11,8 +11,9 @@ title:
 <h1>Knoppen</h1>
 
 <div class="row">
-<div class="col-12">
-<button class="col-5 background">THIS IS A BUTTON</button>
+<div class="col-12 background">
+
+<button class="col-5">THIS IS A BUTTON</button>
 </div>
 </div>
 
