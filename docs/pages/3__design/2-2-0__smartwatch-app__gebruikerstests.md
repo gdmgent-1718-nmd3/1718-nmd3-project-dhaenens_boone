@@ -1,6 +1,6 @@
 ---
 layout   : default
-permalink: design/smartphone-app/gebruikerstests/
+permalink: design/smartwatch-app/gebruikerstests/
 published: true
 # Custom Page Variables
 # ─────────────────────
@@ -10,54 +10,44 @@ title: Gebruikerstests
 
 <div class="container">
 <div class="row">
-<h2 class="col-12">Digitaal Prototype</h2>
+<h2 class="col-12">Paper Prototype</h2>
 </div>
-
 
 <div class="row">
-<img src="../../../assets/Images/34102330_10216507351259117_7936310822328860672_n.jpg" class="col-6" height="auto" >
-<img src="../../../assets/Images/Schermafbeelding 2018-05-30 om 21.39.00.png" class='col-4' height="auto">
+<img src="../../../assets/Images/Proto2.jpg" class="col-5" height="auto">
+<img src="../../../assets/Images/Proto.jpg" class="col-4" height="auto">
 </div>
+</div>
+
+
 
 <div class="row">
 <h4 class="col-12">Gebruikerstest 1 - Kim Steurbaut</h4>
-
-<div class="col-6">
-<p>Negatieve bevindingen</p>
-<ul>
-<li> Het lettertype is soms te klein en niet leesbaar genoeg.</li>
-<li> Er is niet voldoende uitleg bij de workshop tutorials.</li>
-<li> Sommige iconen zijn onduidelijk. </li>
-<li> 'Rounded buttons' passen niet echt bij het ontwerp.</li>
-<li> Titels nemen teveel ruimte in op de pagina's.</li>
-<li> Je kan als bezoeker geen item bekijken op de 'shop' pagina.</li>
-</ul>
+<div class="col-12">
+<img src="../../../assets/Images/33988215_10216506665161965_7722462841587892224_n.jpg" class="col-5" height="auto">
 </div>
 
-
-
-<div class="col-4">
-<p> Positieve bevindingen</p>
+<div class="col-5">
+<p>Ons prototype werd uitgetest door Kim, een vriendin van Steffi. 
+Haar profiel sluit ongeveer aan bij het profiel van ons fictief personage 'Naomi Claeys'.</p>
+<p>Positieve bevindingen:</p>
 <ul>
-<li> Het ontwerp oogt leuk.</li>
-<li> Het ontwerp past bij het thema.</li>
-<li> Leuk kleurgebruik/ kleurencombinatie.</li>
-<li> Leuke ideeën die bruikbaar zijn voor het museum.</li>
+<li> Leuke Iconen. </li>
+<li> Ontwerp oogt duidelijk en overzichtelijk.</li>
 </ul>
+
+<p>Negatieve bevindingen:</p>
+<ul>
+<li> Ontwerp oogt soms een beetje 'saai'. </li>
+<li> Er is geen kleur in het ontwerp. </li>
+</ul>
+
 </div>
 </div>
 
 
 <div class="row">
-<div class="col-10">
-<p> We hebben de opmerkingen van Kim in acht genomen, en hebben onze huidige Screendesigns aangepast.</p>
-<p> Bekijk hier onze eerste versie van het prototype</p>
-<a href="https://xd.adobe.com/view/05d16162-2154-43f5-7f75-25cf28e1a2c3-73e0/screen/48be359e-641b-4af9-9c48-1e3dd69a4e2c/2-Hoofdmenu"></a>
-
-<p> Bekijk hier de definitieve versie van het prototype</p>
-
+<h2 class="col-12">Prototype</h2>
+<a href="https://gdmgent-1718-nmd3.github.io/1718-nmd3-project-dhaenens_boone/#">
 </div>
-</div>
-
-
 </div>
