@@ -9,7 +9,7 @@ title: Smartphone-app
 <div class="container">
 <div class="row">
 <div class="col-12">
-<img src="../../../assets/Images/DEFINITIEF.mp4" class="col-3">
+<img src=" 1718-nmd3-project-dhaenens_boone/docs/assets/Images/DEFINITIEF.mp4">
 </div>
 </div>
 </div>
