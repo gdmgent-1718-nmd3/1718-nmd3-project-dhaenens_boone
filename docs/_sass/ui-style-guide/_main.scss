@@ -47,12 +47,14 @@ button{
 }
 
 button:hover{
-background-color:darkgray;
+background-color:black;
 color:white;
+border: solid #D3D526 1px;
 }
 
+
 .button1{
-    background-color:darkgray;
+    background-color:black;
     color:white;
     width:50%;
     text-align:center;
