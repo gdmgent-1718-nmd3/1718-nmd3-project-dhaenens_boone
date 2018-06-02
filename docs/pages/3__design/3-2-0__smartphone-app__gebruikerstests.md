@@ -11,11 +11,11 @@ title: Gebruikerstests
 <div class="container">
 <div class="row">
 <h2 class="col-12">Digitaal Prototype</h2>
-</div>
 
 
 <img src="../../../assets/Images/34102330_10216507351259117_7936310822328860672_n.jpg" class="col-6" style="width:100%; height:20%">
 <img src="../../../assets/Images/Schermafbeelding 2018-05-30 om 21.39.00.png" class='col-4' style="width:100%; height=20%">
+</div>
 
 <div class="row">
 <h4 class="col-12">Gebruikerstest 1 - Kim Steurbaut</h4>
@@ -55,7 +55,7 @@ title: Gebruikerstests
 
 <div class="row">
 <div class="col-12">
-<iframe width="375" height="667" src="../../../assets/Images/DEFINITIEF.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+<iframe width="375" height="667" src="../../assets/Images/DEFINITIEF.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
 
 <iframe width="375" height="667" src="https://xd.adobe.com/embed/05d16162-2154-43f5-7f75-25cf28e1a2c3-73e0/" frameborder="0" allowfullscreen></iframe>
