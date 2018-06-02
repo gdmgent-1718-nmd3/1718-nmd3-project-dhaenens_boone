@@ -15,7 +15,7 @@ title: Gebruikerstests
 
 <div class="row">
 <img src="../../../assets/Images/Proto2.jpg" class="col-5" height="auto">
-<img src="../../../assets/Images/Proto.jpg" class="col-4" height="auto">
+<img src="../../../assets/Images/Proto.jpg" class="col-5" height="auto">
 </div>
 </div>
 
@@ -23,7 +23,6 @@ title: Gebruikerstests
 
 <div class="row">
 <h4 class="col-12">Gebruikerstest 1 - Kim Steurbaut</h4>
-<div class="col-12">
 <img src="../../../assets/Images/33988215_10216506665161965_7722462841587892224_n.jpg" class="col-5" height="auto">
 </div>
 
