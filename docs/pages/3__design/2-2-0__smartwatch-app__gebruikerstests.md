@@ -17,7 +17,6 @@ title: Gebruikerstests
 <img src="../../../assets/Images/Proto2.jpg" class="col-5" height="auto">
 <img src="../../../assets/Images/Proto.jpg" class="col-5" height="auto">
 </div>
-</div>
 
 
 
