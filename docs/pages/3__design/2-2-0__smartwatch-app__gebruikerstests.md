@@ -22,7 +22,7 @@ title: Gebruikerstests
 
 <div class="row">
 <h4 class="col-12">Gebruikerstest 1 - Kim Steurbaut</h4>
-<img src="../../../assets/Images/33988215_10216506665161965_7722462841587892224_n.jpg" class="col-5" height="auto">
+<img src="../../../assets/Images/33988215_10216506665161965_7722462841587892224_n.jpg" class="col-5" style="width:100%;height:20%">
 
 <div class="col-5">
 <p>Ons prototype werd uitgetest door Kim, een vriendin van Steffi. 
