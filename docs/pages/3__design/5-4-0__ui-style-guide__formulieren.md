@@ -9,6 +9,6 @@ title:
 
 <h1>Formulieren</h1>
 <div class="container">
-
+<img src="../../../assets/Images/34102330_10216507351259117_7936310822328860672_n.jpg" class="col-12" style="width:100%">
 
 </div>
