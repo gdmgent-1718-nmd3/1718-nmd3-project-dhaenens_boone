@@ -59,8 +59,8 @@ title: Gebruikerstests
 <h3>Prototype 1</h3>
 <iframe width="375" height="667" src="https://xd.adobe.com/embed/b5b51d13-7313-432d-67a4-3c2a4ae382ec-c384/" frameborder="0" allowfullscreen></iframe>
 
-
-<iframe width="375" height="667" src="https://xd.adobe.com/embed/05d16162-2154-43f5-7f75-25cf28e1a2c3-73e0/" frameborder="0" allowfullscreen title="prototype 2"></iframe>
+<h3>Prototype 2</h3>
+<iframe width="375" height="667" src="https://xd.adobe.com/embed/05d16162-2154-43f5-7f75-25cf28e1a2c3-73e0/" frameborder="0" allowfullscreen></iframe>
 </div>
 </div>
 
