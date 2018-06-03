@@ -53,9 +53,7 @@ Karel is een levensgenieter. Naast barman is Karel ook bezig met het brouwen van
 <h2 class="row col-12">Journey Map 2</h2>
 <div class="row">
 <div class="col-12">
-<p>Naomi is een verkoopsmedewerker in de ‘Montana-shop’ te Brussel. 
-Elk jaar organiseren haar oversten enkele activiteiten met het gehele bedrijf. 
-Dit jaar werd er een uitstap naar het ‘Tags-museum’ gepland. 
+<p>Naomi is een verkoopsmedewerker in de ‘Montana-shop’ te Brussel. Dit is een winkel die graffiti spuitbussen en dergelijke verkoopt. Elk jaar organiseren haar oversten enkele activiteiten met het gehele bedrijf. Dit jaar werd er een uitstap naar het ‘Tags-museum’ gepland. 
 Het bedrijf koos voor dit museumbezoek omdat het 'Tags-museum' draait rond graffiti en street-art. Aangezien hun bedrijf grafitti en dergelijke verkoopt, leek dit een interessant bezoek voor de medewerkers van het bedrijf. </p>
 </div>
 </div>
@@ -67,17 +65,16 @@ Het bedrijf koos voor dit museumbezoek omdat het 'Tags-museum' draait rond graff
 
 <div class="col-7">
 <p>Naomi ontving voor deze uitstap een uitnodiging van haar opdrachtgever via email. 
-In deze email staat een link waar je als werknemer op moet klikken, indien je wenst mee te gaan met de excursie. Naomi wil graag mee en klikt dus als volgt op de link in de email. Via deze link wordt ze doorverwezen naar een uitcheck -pagina. De datum en uur van het bezoek zijn al op voorhand aangegeven. 
-Naomi hoeft slechts nog op ‘bevestigen’ te klikken, en wordt dan doorverwezen naar de betalings-pagina. 
-Op deze pagina wordt het bedrag vertoond voor het bezoekers-ticket, en de daarvoor voorziene betalingsmogelijkheden. Hiernaast is er ook de optie om een korting in te geven.</p>
+In deze email staat een link waar je als werknemer op kan klikken, indien je wenst mee te gaan met de excursie, en meer wenst te zien over het museum. Naomi wil graag mee en klikt dus als volgt op de link in de email.</p>
 
-<p>In deze email werd een code meegegeven die als betaling kan gebruikt worden. Want het bedrijf neemt de kosten op zich voor dit bezoek. Naomi geeft deze code in bij de optie ‘korting’, en het bedrag wordt gemarkeerd als betaald op de volgende pagina.Op deze pagina krijgt Naomi een overzicht te zien van de betaling van haar ticket. Naomi drukt het ticket op voorhand af. Naomi weet echter dat ze soms nogal verstrooid is, en kan vergeten waar ze het ticket heeft achtergelaten. Naomi ziet op de pagina dat er een optie is om het ticket doorgestuurd te krijgen via email. Op deze manier kan ze het ticket opnieuw afdrukken, indien ze het origineel verliest.</p>
+<p>Naomi heeft een nieuwsgierige aard, en kan niet wachten tot het effectieve museum-bezoek. Ze wil graag op voorhand meer te weten komen over het museum, en klikt daarom de optie ‘terug naar de homepage’ aan op de huidige pagina van de website. Vanaf de homepage ziet Naomi de optie ‘digitaal bezoeken’. Naomi is nieuwschierig naar wat deze optie inhoudt en klikt daarom op de link. Deze optie biedt de mogelijkheid om het museum kort te bezoeken, vanuit je luie zetel. Je kan online enkele zalen doorlopen, en enkele werken bekijken. </p>
+
 </div>
 </div>
 
 <div class="row">
 <div class="col-12">
-<p>Naomi klikt deze optie aan, en ontvangt automatisch in haar inbox een digitale versie van het ticket. Naomi heeft een nieuwsgierige aard, en kan niet wachten tot het effectieve museum-bezoek. Ze wil graag op voorhand meer te weten komen over het museum, en klikt daarom de optie ‘terug naar de homepage’ aan op de huidige pagina van de website. Vanaf de homepage ziet Naomi de optie ‘digitaal bezoeken’. Naomi is nieuwschierig naar wat deze optie inhoudt en klikt daarom op de link. Deze optie biedt de mogelijkheid om het museum kort te bezoeken, vanuit je luie zetel. Je kan online enkele zalen doorlopen, en enkele werken bekijken. </p>
+
 
 <p>Bij deze mogelijkheid komt ook een andere optie vrij. Je kan bovenop het digitale bezoek kiezen voor een aanvullende rondleiding. Wanneer ze op één van deze werken klikt, komt er bijkomende informatie op het beeldscherm tevoorschijn. Naomi vindt dit allemaal erg fascinerend en wil graag meer te weten komen over dit museum. Daarom navigeert ze naar de pagina ‘about us’. Op deze pagina vind Naomi een korte biografie terug over het museum, waarbij ze te weten komt dat het museum oorspronkelijk een oude fabrieksloods was. Dit doet haar denken aan haar vriend, die buiten een fan van graffitti kunst, 
 ook een grote fan is van architectuur.</p>
