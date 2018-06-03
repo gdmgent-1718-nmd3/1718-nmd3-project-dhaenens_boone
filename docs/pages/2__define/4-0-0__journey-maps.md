@@ -68,6 +68,7 @@ Het bedrijf koos voor dit museumbezoek omdat het 'Tags-museum' draait rond graff
 In deze email staat een link waar je als werknemer op kan klikken, indien je wenst mee te gaan met de excursie, en meer wenst te zien over het museum. Naomi wil graag mee en klikt dus als volgt op de link in de email.</p>
 
 <p>Naomi heeft een nieuwsgierige aard, en kan niet wachten tot het effectieve museum-bezoek. Ze wil graag op voorhand meer te weten komen over het museum, en klikt daarom de optie ‘terug naar de homepage’ aan op de huidige pagina van de website. Vanaf de homepage ziet Naomi de optie ‘digitaal bezoeken’. Naomi is nieuwschierig naar wat deze optie inhoudt en klikt daarom op de link. Deze optie biedt de mogelijkheid om het museum kort te bezoeken, vanuit je luie zetel. Je kan online enkele zalen doorlopen, en enkele werken bekijken. </p>
+<p>Bij deze mogelijkheid komt ook een andere optie vrij. Je kan bovenop het digitale bezoek kiezen voor een aanvullende rondleiding. Wanneer ze op één van deze werken klikt, komt er bijkomende informatie op het beeldscherm tevoorschijn.</p>
 
 </div>
 </div>
@@ -75,8 +76,7 @@ In deze email staat een link waar je als werknemer op kan klikken, indien je wen
 <div class="row">
 <div class="col-12">
 
-
-<p>Bij deze mogelijkheid komt ook een andere optie vrij. Je kan bovenop het digitale bezoek kiezen voor een aanvullende rondleiding. Wanneer ze op één van deze werken klikt, komt er bijkomende informatie op het beeldscherm tevoorschijn. Naomi vindt dit allemaal erg fascinerend en wil graag meer te weten komen over dit museum. Daarom navigeert ze naar de pagina ‘about us’. Op deze pagina vind Naomi een korte biografie terug over het museum, waarbij ze te weten komt dat het museum oorspronkelijk een oude fabrieksloods was. Dit doet haar denken aan haar vriend, die buiten een fan van graffitti kunst, 
+<p> Naomi vindt dit allemaal erg fascinerend en wil graag meer te weten komen over dit museum. Daarom navigeert ze naar de pagina ‘about us’. Op deze pagina vind Naomi een korte biografie terug over het museum, waarbij ze te weten komt dat het museum oorspronkelijk een oude fabrieksloods was. Dit doet haar denken aan haar vriend, die buiten een fan van graffitti kunst, 
 ook een grote fan is van architectuur.</p>
   
 
