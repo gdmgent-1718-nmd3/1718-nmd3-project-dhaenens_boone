@@ -19,7 +19,7 @@ Met de Tags applicatie wordt een visuele ervaring gecreeërd voor de bezoeker. D
 * Informatie pagina over de graffitiwerken, die zich in het museum bevinden.
 * Gevorderde graffitiartiesten kunnen werken inzenden & eventueel een plaats krijgen in het Tags museum!
 * 'Lokale Gids' die via tekst (pop ups) extra uitleg verschaft over de werken & artiesten.
-  * Aan de hand van een barcode op het werk, die gescand kan worden.
+  * Aan de hand van een Beacons naast het werk, die gescand kan worden en opgevangen via bleutooth-signalen.
 
 * Mogelijkheid om te connecteren met de desbetreffende Artiest (Facebook, Twitter, Instagram, …)
 * Mogelijkheid om andere werken van de artiest te zoeken.
@@ -38,7 +38,7 @@ Met de Tags applicatie wordt een visuele ervaring gecreeërd voor de bezoeker. D
 * Online Workshop: Via youtube video's.
 * Informatie pagina over de graffitiwerken, die zich in het museum bevinden.
 * 'Lokale Gids' die via tekst (pop ups) extra uitleg verschaft over de werken & artiesten.
-  * Aan de hand van een barcode op het werk, die gescand kan worden.
+  * Aan de hand van een Beacon. die gescand kan worden, dit wordt opgevangen met bleutooth signalen.
 
 * Mogelijkheid om te connecteren met de desbetreffende Artiest (Facebook, Twitter, Instagram, …)
 * Mogelijkheid om andere werken van de artiest te zoeken.
