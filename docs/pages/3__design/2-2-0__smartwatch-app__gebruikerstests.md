@@ -47,13 +47,12 @@ Haar profiel sluit ongeveer aan bij het profiel van ons fictief personage 'Naomi
 <h2 class="col-12">Prototype</h2>
 <a href="https://gdmgent-1718-nmd3.github.io/1718-nmd3-project-dhaenens_boone/#"></a>
 </div>
-</div>
 
 <div class="row">
 <div class="col-12">
-<iframe width="125" height="159" src="https://xd.adobe.com/view/d6bcc813-58f2-45f9-7eb1-30f3c3722591-a08d/" frameborder="0" allowfullscreen></iframe>
+<iframe width="125" height="159" src="https://xd.adobe.com/embed/d6bcc813-58f2-45f9-7eb1-30f3c3722591-a08d/" frameborder="0" allowfullscreen></iframe>
 
 
-<iframe width="250" height="318" src="https://xd.adobe.com/view/d6bcc813-58f2-45f9-7eb1-30f3c3722591-a08d/" frameborder="0" allowfullscreen></iframe>
+<iframe width="250" height="318" src="https://xd.adobe.com/embed/d6bcc813-58f2-45f9-7eb1-30f3c3722591-a08d/" frameborder="0" allowfullscreen></iframe>
 </div>
 </div>
