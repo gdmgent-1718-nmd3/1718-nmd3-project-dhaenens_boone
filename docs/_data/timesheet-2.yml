@@ -3,26 +3,56 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  time: 2
+  task: Kiezen museum, Bedenken Concept
+-
+  time: 6
+  task: Bezoeken van het museum
+-
+  time: 2
+  task: Opstellen van een journey map
 -
   time: 0.5
-  task: Lorem ipsum sit dolor amet.
--
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
--
-  time: 1
-  task: Lorem ipsum sit dolor amet.
--
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  task: Maken van een ideaboard
 -
   time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  task: Schetsen wireframes Smartwatch app
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 0.25
+  task: Bijwerken wireframes Smartwatch app
 -
-  time: 200
-  task: Lorem ipsum sit dolor amet.
+  time: 2
+  task: Screendesigns Smartwatch app
+-
+  time: 1.25
+  task: Maken Prototype Smartwatch app
+-
+  time: 1
+  task: Aanvullen Productiedossier
+-
+  time: 0.5
+  task: Maken wireflows Smartphone
+-
+  time: 1
+  task: Uitvoeren gebruikerstest
+-
+  time: 2
+  task: Maken Screendesigns Smartphone
+-
+  time: 0.15
+  task: Maken Sitemap
+-
+  time: 0.5
+  task: Maken wireflows Website
+-
+  time: 2
+  task: Maken Screendesigns Website
+-
+  time: 1
+  task: Maken van Styleguides
+-
+  time: 1 
+  task: Aanvullen Productiedossier
+
+
+
