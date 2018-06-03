@@ -20,7 +20,7 @@ title: Boone Steffi
     </tr>
     <tr>
       <td>Ontwerpen wireframes smartphone.</td>
-      <td style="text-align: right">2.50</td>
+      <td style="text-align: right">3.50</td>
     </tr>
     <tr>
       <td>Maken wireflow smartphone.</td>
@@ -36,7 +36,7 @@ title: Boone Steffi
     </tr>
     <tr>
       <td>Ontwerp wireflow smartwatch.</td>
-      <td style="text-align: right">0.75</td>
+      <td style="text-align: right">2.75</td>
     </tr>
     <tr>
       <td>Ontwerp visual designs van smartwatch.</td>
@@ -44,15 +44,27 @@ title: Boone Steffi
     </tr>
     <tr>
       <td>Ontwerp wireframes website.</td>
-      <td style="text-align: right">1.50</td>
+      <td style="text-align: right">2.50</td>
     </tr>
     <tr>
    <td>Ontwerp wireflow website.</td>
-      <td style="text-align: right">1.50</td>
+      <td style="text-align: right">2.50</td>
     </tr>
     <tr>
       <td>Ontwerp visual designs website.</td>
       <td style="text-align: right">2.50</td>
+    </tr>
+     <tr>
+      <td>Stylen online dossier</td>
+      <td style="text-align: right">3.50</td>
+    </tr>
+     <tr>
+      <td>Maken UX prototypes</td>
+      <td style="text-align: right">4.50</td>
+    </tr>
+     <tr>
+      <td>Plaatsen prototypes/ Filmpje prototypes maken</td>
+      <td style="text-align: right">29.50</td>
     </tr>
   </tbody>
   <tfoot>
